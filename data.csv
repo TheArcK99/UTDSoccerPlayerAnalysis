@@ -1,0 +1,424 @@
+player_name,age,position,club_name,club_involved_name,transfer_movement,matches_played,goals,assists,yellow_card,red_card,90s_played,minutes,xGoals,xAssists,shotsT_90,passes,pass_complete%,tackle,block,touches,carries,goals_against,goals_against90,Saves,Saves%,PSxG,plus_minus90,season,nationality,fee_cleaned
+Jose Cholevas,31,Left-Back,Watford FC,AS Roma,in,37,2,0,6,1,33,3011,1.1,2.6,0.09,2120,86.8,76,25,2759,1588,0,0,0,0,0,0.75,2015/2016,England,2.5
+JosÃ© Crespo,28,Centre-Back,Aston Villa,CÃ³rdoba CF,in,33,1,4,4,0,30,2714,0.9,2.6,0.2,1972,87.4,85,24,2532,1526,0,0,0,0,0,0.99,2015/2016,England,0.8
+Luis HernÃ¡ndez,27,Centre-Back,Leicester City,MÃ¡laga CF,out,25,2,3,0,0,11,1070,0.8,0.5,0.67,163,74.4,7,7,293,182,0,0,0,0,0,0.17,2016/2017,England,2
+Roberto Pereyra,25,Attacking Midfield,Watford FC,Juventus,in,39,0,1,2,0,37,3353,1.4,0.4,0.11,1790,86.8,50,41,2377,1534,0,0,0,0,0,0.48,2016/2017,England,13.5
+Antonio BarragÃ¡n,29,Right-Back,Middlesbrough FC,Valencia,in,34,5,1,5,0,26,2342,0.4,0.8,0.58,114,81.4,3,5,175,85,0,0,0,0,0,0.12,2016/2017,England,2.7
+Ashley Williams,31,Centre-Back,Everton FC,Swansea,in,44,16,4,4,0,41,3742,14.3,4.2,0.77,802,68.9,32,25,1666,952,0,0,0,0,0,0.41,2016/2017,England,14
+Lucas PÃ©rez,27,Centre-Forward,Arsenal FC,Dep. La CoruÃ±a,in,44,14,9,5,0,30,2763,11,6.8,1.34,1095,82,48,15,1708,1178,0,0,0,0,0,1.56,2016/2017,England,20
+Pablo MarÃ­,22,Centre-Back,Manchester City,GimnÃ stic,in,29,1,4,2,0,26,2368,0.2,2.2,0.11,1542,90.3,42,20,1874,1226,0,0,0,0,0,2.81,2016/2017,England,0.2
+JosÃ© Izquierdo,25,Left Winger,Brighton & Hove Albion,Club Brugge,in,40,0,0,1,0,43,3600,0,0.1,0,772,60.5,0,0,1355,665,0,0,0,0,0,0.2,2017/2018,England,14.5
+Alex Oxlade-Chamberlain,24,Central Midfield,Liverpool FC,Arsenal FC,in,42,5,8,3,0,22,2057,3.3,3.5,0.92,703,76.7,39,31,1160,670,0,0,0,0,0,1.18,2017/2018,England,38
+AndrÃ© Ayew,28,Left Winger,Swansea City,West Ham United,in,24,6,3,2,0,15,1413,3.3,0.3,0.57,216,74.2,19,5,363,205,0,0,0,0,0,-0.51,2017/2018,Ghana,22.8
+Henrikh Mkhitaryan,29,Attacking Midfield,Arsenal FC,Manchester United,in,22,2,5,2,0,15,1363,2.9,2.6,0.53,618,78.1,25,14,941,555,0,0,0,0,0,1.45,2017/2018,Armenia,34
+Joselu,27,Centre-Forward,Newcastle United,Stoke City,in,41,7,2,7,0,23,2108,7.5,1.5,0.77,238,57.5,9,10,695,354,0,0,0,0,0,0.04,2017/2018,England,5.5
+Marvin Zeegelaar,27,Left-Back,Watford FC,Sporting CP,in,13,0,1,4,1,12,1084,0,0.8,0,436,74.7,23,5,683,327,0,0,0,0,0,0.33,2017/2018,Netherlands,3
+Ross Barkley,24,Central Midfield,Chelsea FC,Everton FC,in,4,0,0,0,0,2,208,0.8,0,0.43,39,73.6,0,3,64,42,0,0,0,0,0,-2.16,2017/2018,England,16.8
+Adam Masina,24,Left-Back,Watford FC,Bologna,in,35,0,1,9,1,31,2875,1.9,1.9,0.1,1276,76.8,82,46,2047,1035,0,0,0,0,0,-0.47,2018/2019,Morocco,5
+Adama Diakhaby,22,Left Winger,Huddersfield Town,Monaco,in,30,3,3,5,1,13,1252,2.5,1,0.42,173,65.8,30,17,429,245,0,0,0,0,0,0.14,2018/2019,France,10
+Brahim DÃ­az,19,Attacking Midfield,Manchester City,Real Madrid,out,11,1,1,0,0,4,394,1.2,0.9,1.37,142,83.5,9,2,233,173,0,0,0,0,0,0.91,2018/2019,Spain,17
+Caglar SÃ¶yÃ¼ncÃ¼,22,Centre-Back,Leicester City,SC Freiburg,in,28,1,0,5,2,25,2288,0.8,0.2,0.16,930,81.2,42,30,1389,739,0,0,0,0,0,-0.63,2018/2019,Turkey,21.1
+Chris Mepham,21,Centre-Back,AFC Bournemouth,Brentford FC,in,24,0,1,5,1,22,2018,0.7,0.4,0.09,1174,87,27,21,1564,958,0,0,0,0,0,0.22,2018/2019,Wales,13.6
+Christian Pulisic,20,Right Winger,Chelsea FC,Bor. Dortmund,in,30,7,4,2,0,18,1702,5.6,3.4,0.85,599,76.1,16,16,1054,734,0,0,0,0,0,0.85,2018/2019,United States,64
+Connor Goldson,25,Centre-Back,Brighton & Hove Albion,Rangers,out,8,1,0,1,0,7,680,0.2,0,0.26,63,73.3,2,3,107,49,0,0,0,0,0,0,2018/2019,England,3.4
+Diego Rico,25,Left-Back,AFC Bournemouth,CD LeganÃ©s,in,33,3,2,10,1,30,2776,1.4,3.1,0.32,892,67.1,68,30,1619,724,0,0,0,0,0,-0.55,2018/2019,Spain,15
+Diogo Dalot,19,Right-Back,Manchester United,FC Porto,in,7,0,2,1,0,5,502,0,0,0,41,75.9,1,1,68,32,0,0,0,0,0,1.61,2018/2019,Portugal,22
+Fabian SchÃ¤r,26,Centre-Back,Newcastle United,Dep. La CoruÃ±a,in,27,2,2,10,0,26,2399,3,0.8,0.24,758,79.2,59,36,1269,597,0,0,0,0,0,-1.16,2018/2019,Switzerland,4
+Florin Andone,25,Centre-Forward,Brighton & Hove Albion,Dep. La CoruÃ±a,in,30,7,3,6,0,18,1655,11.4,1.1,1.1,188,61,9,9,531,320,0,0,0,0,0,-0.82,2018/2019,Romania,6
+Fred,25,Central Midfield,Manchester United,Shakhtar D.,in,30,7,3,6,0,18,1655,11.4,1.1,1.1,188,61,9,9,531,320,0,0,0,0,0,-0.82,2018/2019,England,59
+Jefferson Lerma,23,Defensive Midfield,AFC Bournemouth,Levante,in,28,0,1,18,0,24,2239,1.2,0.7,0.04,894,81.1,51,25,1326,660,0,0,0,0,0,-0.12,2018/2019,Colombia,28
+Jonny Otto,24,Left-Back,Wolverhampton Wanderers,Atlético de Madrid,in,40,2,1,10,0,39,3553,1.8,2.9,0.11,1744,82.5,102,48,2525,1338,0,0,0,0,0,-0.1,2018/2019,Spain,21
+Maxime Le Marchand,28,Centre-Back,Fulham FC,OGC Nice,in,37,0,3,4,0,35,3209,0.7,0.8,0,2133,88.9,55,43,2726,1324,0,0,0,0,0,0.17,2018/2019,France,4
+Michael Hefele,27,Centre-Back,Huddersfield Town,Nottingham Forest,out,6,0,0,3,0,4,387,0,0,0.23,8,80,0,0,16,7,0,0,0,0,0,0,2018/2019,Germany,0.33
+Miguel AlmirÃ³n,24,Attacking Midfield,Newcastle United,Atlanta,in,32,12,11,4,0,30,2756,18.1,10.1,1.5,1259,77.1,58,19,2039,1427,0,0,0,0,0,0.88,2018/2019,Paraguay,24
+Mohamed Elyounoussi,23,Left Winger,Southampton FC,FC Basel,in,41,13,7,3,0,36,3291,2.2,0.3,1.42,134,70.5,3,14,296,190,0,0,0,0,0,0.85,2018/2019,Norway,18
+Naby KeÃ¯ta,23,Central Midfield,Liverpool FC,RB Leipzig,in,39,9,7,11,3,33,2969,5.4,5.4,0.61,1478,80.6,91,40,2276,1374,0,0,0,0,0,0.24,2018/2019,Guinea,60
+Prince OnianguÃ©,29,Defensive Midfield,Wolverhampton Wanderers,SM Caen,out,15,1,0,1,1,12,1146,2.8,0.3,0.43,272,78.4,16,20,465,263,0,0,0,0,0,-0.47,2018/2019,Congo,0.5
+Sam Vokes,29,Centre-Forward,Burnley FC,Stoke City,out,22,3,0,0,0,11,998,2.4,0.6,0.63,136,50.2,4,2,375,127,0,0,0,0,0,-1.17,2018/2019,Wales,8
+Sokratis Papastathopoulos,30,Centre-Back,Arsenal FC,Bor. Dortmund,in,43,3,0,10,1,39,3573,1.4,1.3,0.13,2214,87.2,94,48,2914,1785,0,0,0,0,0,0.45,2018/2019,Greece,16
+Stuart Armstrong,26,Central Midfield,Southampton FC,Celtic,in,31,3,5,0,0,19,1740,0.5,0.1,1.24,90,78.9,6,2,138,70,0,0,0,0,0,-2.67,2018/2019,Scotland,7.95
+Yoshinori Muto,26,Centre-Forward,Newcastle United,1.FSV Mainz 05,in,30,10,2,2,0,22,2065,4.9,1.6,0.92,255,73.3,21,16,533,328,0,0,0,0,0,-0.04,2018/2019,Japan,10.7
+Alfie Mawson,24,Centre-Back,Fulham FC,Swansea,in,44,3,1,3,0,43,3879,1.9,0.6,0.16,1420,80.9,32,41,2131,1026,0,0,0,0,0,-0.67,2018/2019,England,16.85
+AndrÃ© Zambo Anguissa,22,Defensive Midfield,Fulham FC,Marseille,in,54,0,0,5,0,19,3237,2,1.9,0.21,1865,86.1,109,62,2640,1825,0,0,0,0,0,0.58,2018/2019,Cameroon,24.85
+Benik Afobe,25,Centre-Forward,Wolverhampton Wanderers,Bournemouth,in,22,1,0,0,0,10,919,1.6,0.1,0.98,113,73.4,4,4,219,138,0,0,0,0,0,-0.88,2018/2019,Congo DR,11.4
+Dominic Solanke,21,Centre-Forward,AFC Bournemouth,Liverpool FC,in,10,0,1,0,0,38,347,1,0.2,0.78,71,71,8,4,163,106,0,0,0,0,0,0.26,2018/2019,England,21.2
+Gerard Deulofeu,24,Centre-Forward,Watford FC,Barcelona,in,17,2,2,1,0,9,892,1.5,1.1,0.97,312,76.7,8,2,482,342,0,0,0,0,0,2.52,2018/2019,Spain,13
+Issa Diop,21,Centre-Back,West Ham United,Toulouse,in,39,3,0,9,0,39,3510,2,0.8,0.18,989,79.3,58,38,1570,869,0,0,0,0,0,-0.41,2018/2019,France,25
+Jannik Vestergaard,25,Centre-Back,Southampton FC,Bor. M'gladbach,in,34,3,0,5,0,34,3060,1.9,0.9,0.18,1634,85,58,55,2269,1231,0,0,0,0,0,-0.21,2018/2019,Denmark,25
+Leandro Bacuna,27,Central Midfield,Cardiff City,Reading,in,28,3,3,4,1,25,2263,2,3.5,0.36,1052,78.3,32,14,1538,913,0,0,0,0,0,-0.28,2018/2019,CuraÃ§ao,3.45
+Lucas Digne,25,Left-Back,Everton FC,Barcelona,in,20,1,2,3,0,14,1339,0.4,1.9,0.18,675,87.1,30,18,882,510,0,0,0,0,0,1.41,2018/2019,France,20.2
+Lucas PÃ©rez,29,Centre-Forward,West Ham United,Arsenal,in,15,1,0,4,0,14,1276,0.3,1.2,0.14,497,70.8,33,16,829,356,0,0,0,0,0,-0.35,2018/2019,England,4.4
+Mikel Merino,22,Central Midfield,Newcastle United,Bor. Dortmund,in,25,1,1,4,0,15,1426,0.6,0.7,0.38,645,78.9,56,36,1066,570,0,0,0,0,0,-0.13,2018/2019,Spain,7
+Rachid Ghezzal,26,Right Winger,Leicester City,Monaco,in,35,2,3,2,2,15,1367,2.7,2.2,0.55,447,70.4,34,18,845,523,0,0,0,0,0,1.19,2018/2019,Algeria,14
+Ramadan Sobhi,21,Left Winger,Huddersfield Town,Stoke City,in,27,3,0,2,0,16,1508,1.2,1.1,0.42,340,75.2,32,14,600,397,0,0,0,0,0,-1.19,2018/2019,Egypt,6.5
+Richarlison,21,Centre-Forward,Everton FC,Watford FC,in,41,5,4,4,0,33,3025,10.3,2.2,0.68,524,60.9,64,39,1359,912,0,0,0,0,0,-0.71,2018/2019,Brazil,39.2
+Riyad Mahrez,27,Right Winger,Manchester City,Leicester City,in,41,13,12,2,0,37,3329,6.5,7,1.03,1088,73.3,39,32,1880,1157,0,0,0,0,0,0.08,2018/2019,Algeria,67.8
+Terence Kongolo,24,Centre-Back,Huddersfield Town,Monaco,in,17,0,0,0,0,15,1418,0.3,0.3,0,263,67.4,33,12,566,198,0,0,0,0,0,-0.32,2018/2019,Netherlands,20
+Xherdan Shaqiri,26,Right Winger,Liverpool FC,Stoke City,in,38,8,7,5,0,34,3072,5,7.4,0.88,923,71.4,25,9,1594,1065,0,0,0,0,0,-0.82,2018/2019,Switzerland,14.7
+Yves Bissouma,21,Central Midfield,Brighton & Hove Albion,LOSC Lille,in,28,3,1,3,0,21,1894,2.1,1.1,0.35,876,84.1,67,13,1271,748,0,0,0,0,0,-1,2018/2019,Mali,16.8
+Adam Webster,24,Centre-Back,Brighton & Hove Albion,Bristol City,in,47,3,0,5,0,43,3955,3.2,2.3,0.18,1937,74,61,64,3115,1498,0,0,0,0,0,0.05,2019/2020,England,22.22
+Allan Saint-Maximin,22,Left Winger,Newcastle United,OGC Nice,in,36,6,3,2,0,33,3032,7.8,6.5,0.5,694,72.1,12,11,1409,1066,0,0,0,0,0,0.03,2019/2020,France,18
+AndrÃ© Gomes,25,Central Midfield,Everton FC,Barcelona,in,37,5,5,6,0,32,2909,5.2,3.8,0.84,529,70.8,13,13,1162,859,0,0,0,0,0,-0.62,2019/2020,England,25
+Callum Robinson,24,Left Winger,Sheffield United,Preston,in,28,13,4,1,0,9,2157,8.2,4.5,1.46,509,66.7,12,19,1007,674,0,0,0,0,0,-0.25,2019/2020,Republic of Ireland,7.8
+Connor Mahoney,22,Right Winger,AFC Bournemouth,Millwall,out,32,2,4,0,0,18,1640,2.2,4,0.55,247,49.5,25,16,698,379,0,0,0,0,0,-0.22,2019/2020,England,1.1
+Dennis Praet,25,Central Midfield,Leicester City,Sampdoria,in,37,2,3,7,0,35,3190,2.3,4.4,0.37,1556,83.3,62,33,2183,1244,0,0,0,0,0,0.31,2019/2020,Belgium,19.2
+Dennis Srbeny,25,Centre-Forward,Norwich City,SC Paderborn,out,20,3,1,0,0,6,590,1.4,0.5,1.37,38,71.7,3,4,86,55,0,0,0,0,0,1.37,2019/2020,Germany,0.2
+Emil Krafth,25,Right-Back,Newcastle United,Amiens SC,in,20,0,1,0,0,13,1249,0.3,0.6,0,305,73,18,11,531,219,0,0,0,0,0,-0.58,2019/2020,Sweden,5.4
+Ezri Konsa,21,Centre-Back,Aston Villa,Brentford FC,in,47,1,0,7,1,28,4170,0.6,0.9,0.02,1946,87.3,50,34,2583,1396,0,0,0,0,0,0.3,2019/2020,England,13.3
+GaÃ«tan Bong,31,Left-Back,Brighton & Hove Albion,Nottingham Forest,out,24,0,0,0,0,21,1914,0.1,0.6,0,603,67.9,16,16,1071,452,0,0,0,0,0,-0.61,2019/2020,Cameroon,0.5
+Ignacio Pussetto,24,Right Winger,Watford FC,Udinese Calcio,in,14,1,0,1,0,4,441,0.9,0.3,0.82,76,61.3,8,3,193,122,0,0,0,0,0,0,2019/2020,Argentina,8.5
+IsmaÃ¯la Sarr,21,Right Winger,Watford FC,Stade Rennais,in,50,13,9,7,0,46,4143,8.6,7.7,0.69,699,72.8,39,20,1465,1099,0,0,0,0,0,0.35,2019/2020,Senegal,30
+Ivan Cavaleiro,26,Left Winger,Wolverhampton Wanderers,Fulham FC,out,45,6,7,4,0,35,3174,3.9,8.8,0.48,1025,74.9,47,46,1844,1095,0,0,0,0,0,0.17,2019/2020,Portugal,11.8
+Jarrod Bowen,23,Right Winger,West Ham United,Hull City,in,32,17,6,5,0,31,2790,15,5.1,1.32,473,64,33,14,1141,650,0,0,0,0,0,0.16,2019/2020,England,21.3
+Jean-Philippe Gbamin,23,Defensive Midfield,Everton FC,1.FSV Mainz 05,in,33,2,1,3,0,31,2866,1.4,2.6,0.22,1080,79,51,39,1674,1026,0,0,0,0,0,-0.25,2019/2020,CÃ´te d'Ivoire,25
+Joelinton,22,Attacking Midfield,Newcastle United,TSG Hoffenheim,in,35,11,7,7,0,29,2643,9.6,5,1.06,640,78,46,41,1215,747,0,0,0,0,0,0.61,2019/2020,Brazil,44
+Jonathan Kodjia,30,Centre-Forward,Aston Villa,Al-Gharafa SC,out,9,2,1,1,0,3,320,0.1,0.1,0.56,15,55.6,0,0,43,18,0,0,0,0,0,-0.56,2019/2020,CÃ´te d'Ivoire,3
+Josh Brownhill,24,Central Midfield,Burnley FC,Bristol City,in,29,5,2,4,0,28,2549,2,3.6,0.49,1130,76.3,48,18,1727,616,0,0,0,0,0,0,2019/2020,England,10
+Jota Peleteiro,28,Right Winger,Aston Villa,Birmingham,in,41,3,10,4,0,32,2890,4.2,8.2,0.59,711,64.8,37,20,1448,754,0,0,0,0,0,0.31,2019/2020,Spain,4.5
+Kieran Tierney,22,Left-Back,Arsenal FC,Celtic,in,27,1,5,1,0,25,2282,0.1,0.6,0.33,344,75.6,10,12,526,248,0,0,0,0,0,0.91,2019/2020,Scotland,27
+Lloyd Kelly,20,Centre-Back,AFC Bournemouth,Bristol City,in,34,1,0,5,0,8,2411,0.9,1.4,0.15,880,63.5,42,21,1686,683,0,0,0,0,0,0.04,2019/2020,England,14.8
+Lukas Rupp,29,Central Midfield,Norwich City,TSG Hoffenheim,in,15,0,0,1,0,10,917,0.9,0.5,0.49,205,75.4,15,11,352,196,0,0,0,0,0,-1.67,2019/2020,Germany,0.5
+Luke Freeman,27,Attacking Midfield,Sheffield United,QPR,in,48,8,8,3,0,46,4205,6.9,7.3,0.58,958,64,45,30,2031,1090,0,0,0,0,0,-0.3,2019/2020,England,5.6
+Marvelous Nakamba,25,Defensive Midfield,Aston Villa,Club Brugge,in,23,0,0,5,1,16,1488,0.1,0.1,0.23,122,83.6,22,12,216,96,0,0,0,0,0,0.73,2019/2020,Zimbabwe,12
+Mateo Kovacic,25,Central Midfield,Chelsea FC,Real Madrid,in,51,0,2,5,0,34,3107,2.3,3,0.12,2073,91.5,72,30,2603,1671,0,0,0,0,0,0.84,2019/2020,Croatia,45
+Moise Kean,19,Centre-Forward,Everton FC,Juventus,in,17,7,0,2,0,11,671,4.2,0.3,1.48,73,77.7,0,1,182,132,0,0,0,0,0,1.07,2019/2020,Italy,27.5
+Moussa Djenepo,21,Left Winger,Southampton FC,Standard LiÃ¨ge,in,37,11,2,11,1,28,2520,2,0.5,0.72,84,77.1,4,5,173,111,0,0,0,0,0,0.32,2019/2020,Mali,15.7
+Nicolas PÃ©pÃ©,24,Right Winger,Arsenal FC,LOSC Lille,in,41,23,12,1,0,39,3530,21.1,7.3,1.41,982,75.8,27,33,1828,1291,0,0,0,0,0,0.94,2019/2020,CÃ´te d'Ivoire,80
+NÃ©lson Oliveira,27,Centre-Forward,Norwich City,AEK Athens,out,10,3,0,2,0,7,668,2.5,0.8,1.35,156,75.4,6,3,311,193,0,0,0,0,0,-0.4,2019/2020,Portugal,1
+Ola Aina,22,Right-Back,Chelsea FC,Torino,out,32,1,3,6,1,24,2267,1.4,2.2,0.21,861,73.1,54,30,1497,658,0,0,0,0,0,0.32,2019/2020,Nigeria,9.8
+Pablo Fornals,23,Attacking Midfield,West Ham United,Villarreal,in,50,5,6,5,0,38,3441,5.9,4.6,0.71,1327,76.9,64,41,2161,1328,0,0,0,0,0,0.21,2019/2020,Spain,28
+Patrick Cutrone,21,Centre-Forward,Wolverhampton Wanderers,AC Milan,in,43,9,2,2,0,21,1932,4.7,1.2,0.97,297,72.4,12,14,630,424,0,0,0,0,0,0.56,2019/2020,Italy,18
+Ryan Sessegnon,19,Left Midfield,Tottenham Hotspur,Fulham FC,in,38,2,6,1,0,27,2498,4,2.9,0.4,567,69.1,22,25,1127,541,0,0,0,0,0,-1.41,2019/2020,England,27
+Sander Berge,21,Defensive Midfield,Sheffield United,KRC Genk,in,33,2,4,3,0,28,2565,0.6,0.2,0.92,261,85.3,8,5,350,216,0,0,0,0,0,1.33,2019/2020,Norway,23
+Sepp van den Berg,17,Centre-Back,Liverpool FC,PEC Zwolle,in,15,0,0,0,0,10,905,0.5,0.1,0.1,498,87.7,20,6,675,368,0,0,0,0,0,-0.6,2019/2020,Netherlands,1.9
+Tanguy NdombÃ©lÃ©,22,Central Midfield,Tottenham Hotspur,Olympique Lyon,in,49,3,8,3,0,43,3872,2.4,3.5,0.29,2095,88.3,85,35,2750,1956,0,0,0,0,0,0.6,2019/2020,France,60
+Wesley,22,Centre-Forward,Aston Villa,Club Brugge,in,26,1,1,1,0,10,981,0.2,0.7,0.28,239,79.1,11,7,376,232,0,0,0,0,0,0.73,2019/2020,England,25
+Youri Tielemans,22,Central Midfield,Leicester City,Monaco,in,30,5,2,9,0,29,2610,3,2.2,0.49,1036,77.1,59,27,1621,945,0,0,0,0,0,-1,2019/2020,Belgium,45
+Aaron Wan-Bissaka,21,Right-Back,Manchester United,Crystal Palace,in,39,0,3,4,1,45,3474,0.5,1.2,0,1146,73.2,129,49,2143,831,0,0,0,0,0,0,2019/2020,England,55
+Alex Iwobi,23,Left Winger,Everton FC,Arsenal FC,in,51,6,8,0,0,21,2840,4.1,8.1,0.7,1009,75.4,36,24,1698,1193,0,0,0,0,0,0.67,2019/2020,Nigeria,30.4
+Ally Samatta,27,Centre-Forward,Aston Villa,KRC Genk,in,41,2,8,2,0,204,3557,2.5,4.3,0.38,1154,75.1,69,41,1912,1169,0,0,0,0,0,-0.56,2019/2020,England,10.5
+Anwar El Ghazi,24,Right Winger,Aston Villa,LOSC Lille,in,33,5,6,4,1,28,2343,5.9,6.2,0.77,608,70.7,27,17,1144,697,0,0,0,0,0,0.38,2019/2020,Netherlands,9
+Ayoze PÃ©rez,25,Second Striker,Leicester City,Newcastle United,in,40,6,7,4,0,20,2534,6.2,1.9,0.89,390,64.3,20,10,840,501,0,0,0,0,0,-0.64,2019/2020,England,33.4
+Craig Dawson,29,Centre-Back,Watford FC,West Bromwich Albion,in,43,2,2,10,0,40,3665,2.1,1.2,0.25,1666,80,51,45,2500,1184,0,0,0,0,0,0.52,2019/2020,England,6
+Fabian Delph,29,Central Midfield,Everton FC,Manchester City,in,20,0,1,1,1,13,1222,0.3,0.6,0.44,920,90.6,25,7,1121,821,0,0,0,0,0,1.18,2019/2020,England,9.5
+Harry Maguire,26,Centre-Back,Manchester United,Leicester City,in,32,3,0,6,1,30,2716,2.4,1,0.4,1499,85.5,31,32,2079,1303,0,0,0,0,0,-0.13,2019/2020,England,87
+James McCarthy,28,Central Midfield,Crystal Palace,Everton FC,in,52,2,1,15,0,51,4653,3.4,0.8,0.21,2585,87.5,37,41,3374,2015,0,0,0,0,0,0.91,2019/2020,England,3.3
+Jordan Ayew,27,Centre-Forward,Crystal Palace,Swansea,in,25,2,2,3,0,14,1336,2.9,0.5,0.4,207,73.1,38,16,485,273,0,0,0,0,0,0.27,2019/2020,Ghana,2.8
+Leander Dendoncker,24,Defensive Midfield,Wolverhampton Wanderers,RSC Anderlecht,in,26,2,0,1,0,23,2125,3.4,0.9,0.55,484,78.7,53,35,816,314,0,0,0,0,0,0.17,2019/2020,Belgium,13.8
+Leandro Trossard,24,Left Winger,Brighton & Hove Albion,KRC Genk,in,40,17,8,0,0,36,3306,1.1,1,1.54,162,70.7,7,5,289,214,0,0,0,0,0,0.87,2019/2020,Belgium,15.56
+Lys Mousset,23,Centre-Forward,Sheffield United,Bournemouth,in,28,2,0,1,0,7,666,1.4,0.7,1.35,87,70.2,3,3,194,122,0,0,0,0,0,-1.49,2019/2020,France,11.1
+Matt Clarke,22,Centre-Back,Brighton & Hove Albion,Portsmouth,in,29,3,1,2,0,11,1069,1.2,0.5,1.26,103,59.5,9,5,292,197,0,0,0,0,0,-0.25,2019/2020,England,3.9
+Neal Maupay,22,Centre-Forward,Brighton & Hove Albion,Brentford FC,in,49,28,9,9,0,44,4018,26.2,4.7,1.55,647,76.1,31,25,1290,822,0,0,0,0,0,0.31,2019/2020,France,22.22
+Oliver McBurnie,23,Centre-Forward,Sheffield United,Swansea,in,44,24,4,5,0,39,3573,19.8,2.3,0.91,829,73.6,38,25,1568,915,0,0,0,0,0,0.23,2019/2020,Scotland,19.1
+Pedro Porro,19,Right-Back,Manchester City,Girona,in,34,1,4,5,0,26,2391,1.6,3.3,0.26,837,67.2,51,36,1554,790,0,0,0,0,0,-0.38,2019/2020,Spain,12
+Sam Byram,25,Right-Back,Norwich City,West Ham United,in,8,0,1,4,0,7,682,0.1,0.4,0,233,74.9,19,4,386,176,0,0,0,0,0,-0.66,2019/2020,England,0.83
+Steven Bergwijn,22,Left Winger,Tottenham Hotspur,PSV Eindhoven,in,21,5,10,4,0,19,1725,4.6,6.5,0.94,721,85.6,9,7,1089,755,0,0,0,0,0,0.99,2019/2020,Netherlands,30
+SÃ©bastien Haller,25,Centre-Forward,West Ham United,E. Frankfurt,in,41,20,10,5,0,34,3117,19.7,5.3,0.9,681,63.8,37,26,1478,659,0,0,0,0,0,0.78,2019/2020,CÃ´te d'Ivoire,50
+Takumi Minamino,24,Left Winger,Liverpool FC,RB Salzburg,in,37,10,5,3,0,23,2142,3.3,0.3,1.3,109,74.1,11,7,205,119,0,0,0,0,0,1.34,2019/2020,Japan,8.5
+Alex Telles,27,Left-Back,Manchester United,FC Porto,in,39,11,10,11,2,36,3246,9.4,8,0.22,1582,71.5,53,33,2536,1043,0,0,0,0,0,1.16,2020/2021,Brazil,15
+Allan,29,Defensive Midfield,Everton FC,SSC Napoli,in,26,1,4,3,0,22,2024,0.4,2.5,0.18,1084,75.1,53,22,1660,858,0,0,0,0,0,0.04,2020/2021,England,23.6
+Antonee Robinson,23,Left-Back,Fulham FC,Wigan,in,32,0,0,4,1,27,2462,0.4,2,0.18,974,70.3,45,21,1670,827,0,0,0,0,0,-0.33,2020/2021,United States,2.1
+Diego Llorente,27,Centre-Back,Leeds United,Real Sociedad,in,15,1,0,1,0,13,1204,0.8,0.3,0.22,598,82.9,34,18,873,508,0,0,0,0,0,0.37,2020/2021,Spain,20
+Donny van de Beek,23,Central Midfield,Manchester United,Ajax,in,30,10,7,4,0,16,2540,7.4,8.5,0.67,933,80,62,27,1464,859,0,0,0,0,0,1.28,2020/2021,Netherlands,39
+Eberechi Eze,22,Attacking Midfield,Crystal Palace,QPR,in,48,14,8,3,0,46,4178,12.1,7.1,0.82,1562,82.2,54,32,2456,1522,0,0,0,0,0,-0.24,2020/2021,England,17.8
+Giovani Lo Celso,24,Central Midfield,Tottenham Hotspur,Real Betis,in,37,2,3,8,0,24,2157,1.9,2.1,0.42,1025,80.6,60,25,1558,1066,0,0,0,0,0,0.29,2020/2021,Argentina,32
+Hakim Ziyech,27,Attacking Midfield,Chelsea FC,Ajax,in,28,8,17,1,0,24,2192,8.4,15.3,1.44,1215,70.8,53,14,2102,1497,0,0,0,0,0,1.68,2020/2021,Morocco,40
+Jamal Lewis,22,Left-Back,Newcastle United,Norwich City,in,32,1,0,4,0,30,2721,0.4,1.2,0.13,1052,78.9,51,27,1626,931,0,0,0,0,0,-1.32,2020/2021,Northern Ireland,16.5
+Jayden Bogle,20,Right-Back,Sheffield United,Derby,in,40,1,6,8,0,17,3096,1.1,3.1,0.12,1300,78.3,65,26,2057,1136,0,0,0,0,0,-0.12,2020/2021,England,3.85
+Joe Gelhardt,18,Centre-Forward,Leeds United,Wigan,in,19,1,0,2,0,5,453,0.9,0.7,0.99,65,61.3,0,2,179,140,0,0,0,0,0,-1.19,2020/2021,England,1
+Joe Rodon,22,Centre-Back,Tottenham Hotspur,Swansea,in,21,0,1,2,0,5,1793,0.5,0.5,0.05,851,81.8,22,29,1265,640,0,0,0,0,0,0.2,2020/2021,Wales,12.1
+Josh Cullen,24,Central Midfield,West Ham United,RSC Anderlecht,out,34,1,2,7,0,15,3025,2.8,5,0.21,1327,77.8,67,32,2013,862,0,0,0,0,0,-0.24,2020/2021,Republic of Ireland,0.5
+JoÃ«l Veltman,28,Right-Back,Brighton & Hove Albion,Ajax,in,24,0,0,4,1,23,2076,1.2,1.6,0.13,1520,88.3,75,16,1987,1296,0,0,0,0,0,1.82,2020/2021,Netherlands,1
+Kai Havertz,21,Attacking Midfield,Chelsea FC,Bay. Leverkusen,in,45,18,9,3,0,42,3786,14.1,6.5,0.83,1609,84,32,30,2416,1577,0,0,0,0,0,0.5,2020/2021,Germany,80
+Kenny Tete,24,Right-Back,Fulham FC,Olympique Lyon,in,28,0,2,4,0,18,1667,0.7,1.8,0.11,738,78.1,36,17,1110,591,0,0,0,0,0,0.54,2020/2021,Netherlands,3.2
+Kieran Dowell,22,Attacking Midfield,Everton FC,Norwich City,out,13,5,2,0,0,11,986,1.4,2.2,0.55,248,67.8,15,13,467,240,0,0,0,0,0,0.64,2020/2021,England,2.2
+Konstantinos Tsimikas,24,Left-Back,Liverpool FC,Olympiacos,in,37,0,3,7,0,36,3238,0.2,1.4,0.2,374,77.1,34,8,618,337,0,0,0,0,0,0.83,2020/2021,Greece,13
+Matty Cash,23,Right-Back,Aston Villa,Nottingham Forest,in,28,0,2,8,1,26,2372,0.3,1.7,0.08,959,72.7,71,50,1655,756,0,0,0,0,0,0.27,2020/2021,Poland,15.75
+Max Lowe,23,Left-Back,Sheffield United,Derby,in,31,0,1,1,1,27,2464,0.3,1.7,0.07,1026,74.1,106,34,1745,800,0,0,0,0,0,-0.47,2020/2021,England,3.85
+Mohammed Salisu,21,Centre-Back,Southampton FC,Real Valladolid,in,31,1,1,4,0,30,2725,1.4,0.2,0.03,894,80.2,41,32,1422,709,0,0,0,0,0,-0.3,2020/2021,Ghana,12
+MoisÃ©s Caicedo,19,Central Midfield,Brighton & Hove Albion,Independiente,in,28,6,2,2,0,20,1839,0.6,0.3,0.85,176,88.9,6,1,221,154,0,0,0,0,0,0.93,2020/2021,Ecuador,5
+Morgan Sanson,26,Central Midfield,Aston Villa,Marseille,in,19,2,3,3,0,13,1231,1.1,1.8,0.37,359,74.8,30,18,623,359,0,0,0,0,0,-0.29,2020/2021,France,15.8
+Ovie Ejaria,22,Left Midfield,Liverpool FC,Reading,out,39,3,5,3,0,37,3341,3.8,4.1,0.43,1056,82.6,50,30,1715,1119,0,0,0,0,0,0.13,2020/2021,England,3.9
+Rhian Brewster,20,Centre-Forward,Sheffield United,Liverpool FC,in,3,0,0,1,0,14,222,,0.4,1.08,210,61,13,13,533,318,0,0,0,0,0,0.81,2020/2021,England,26
+Robin Koch,24,Centre-Back,Leeds United,SC Freiburg,in,34,2,0,4,0,31,2805,4,1.6,0.35,1266,83.5,34,30,1811,1061,0,0,0,0,0,-0.1,2020/2021,Germany,13
+RÃºben Dias,23,Centre-Back,Manchester City,Benfica,in,25,1,0,3,0,22,1991,0.9,0.4,0.09,731,82,25,31,1101,496,0,0,0,0,0,-0.23,2020/2021,England,68
+SaÃ¯d Benrahma,25,Left Winger,West Ham United,Brentford FC,in,33,1,7,0,0,17,1603,2.6,3.2,0.84,411,76.7,24,10,752,509,0,0,0,0,0,0.67,2020/2021,Algeria,23.1
+Scott Hogan,28,Centre-Forward,Aston Villa,Birmingham,out,18,7,1,0,0,15,1366,7.9,0.2,0.72,122,71.3,2,6,287,139,0,0,0,0,0,-0.59,2020/2021,Republic of Ireland,2.77
+Sergio ReguilÃ³n,23,Left-Back,Tottenham Hotspur,Real Madrid,in,37,3,5,9,0,32,2965,3.3,5.1,0.24,1634,78.4,66,31,2463,1338,0,0,0,0,0,0.67,2020/2021,Spain,30
+Timothy Castagne,24,Right-Back,Leicester City,Atalanta BC,in,33,2,2,5,0,24,2163,3.5,2.3,0.29,1122,83.1,34,44,1570,936,0,0,0,0,0,0.79,2020/2021,Belgium,20.9
+Timothy Fosu-Mensah,23,Right-Back,Manchester United,Bay. Leverkusen,out,7,0,0,2,0,5,529,0.2,0.2,0.34,302,84.6,4,7,394,217,0,0,0,0,0,0,2020/2021,Netherlands,1.7
+Tomas Soucek,25,Defensive Midfield,West Ham United,Slavia Prague,in,23,10,1,2,0,22,2058,2.4,0.3,0.83,272,82.2,15,13,422,211,0,0,0,0,0,1.22,2020/2021,Czech Republic,16.2
+Anthony Knockaert,28,Right Winger,Fulham FC,Brighton & Hove Albion,in,43,4,4,7,0,32,2926,6.8,9,0.86,1147,74.8,32,19,1849,1019,0,0,0,0,0,0.43,2020/2021,France,11.7
+Ben Chilwell,23,Left-Back,Chelsea FC,Leicester City,in,33,3,4,3,0,32,2943,1,3.2,0.21,1544,76.4,43,30,2329,1427,0,0,0,0,0,0.7,2020/2021,England,50.2
+Ben Davies,25,Centre-Back,Liverpool FC,Preston,in,13,3,1,0,0,9,843,1.3,1.2,0.75,358,78,15,9,560,265,0,0,0,0,0,2.46,2020/2021,England,1.85
+Dale Stephens,31,Central Midfield,Burnley FC,Brighton & Hove Albion,in,34,0,1,8,0,29,2620,0.6,1.7,0.07,1440,85.4,73,31,1969,987,0,0,0,0,0,-0.41,2020/2021,England,1.1
+Diogo Jota,23,Left Winger,Liverpool FC,Wolverhampton Wanderers,in,42,13,1,6,1,29,2659,14.6,2,1.15,773,77.1,28,18,1427,885,0,0,0,0,0,0.2,2020/2021,Portugal,44.7
+Harrison Reed,25,Central Midfield,Fulham FC,Southampton FC,in,25,0,1,6,1,20,1821,0.2,1.2,0.1,1045,86.4,47,13,1399,620,0,0,0,0,0,0.2,2020/2021,England,6.5
+HÃ©lder Costa,26,Right Winger,Leeds United,Wolverhampton Wanderers,in,33,0,2,5,0,26,2346,0.4,1.8,0.15,1288,85,63,34,1756,896,0,0,0,0,0,-0.61,2020/2021,England,17.7
+Karlan Grant,23,Centre-Forward,West Bromwich Albion,Huddersfield Town,in,21,1,0,1,0,12,1127,1.8,0.3,0.72,164,70.1,5,7,354,177,0,0,0,0,0,-1.52,2020/2021,England,16.5
+Kyle Walker-Peters,23,Right-Back,Southampton FC,Spurs,in,5,0,0,0,0,34,451,0,0.3,0,339,75.3,13,10,530,278,0,0,0,0,0,-0.2,2020/2021,England,13.3
+Matt Doherty,28,Right-Back,Tottenham Hotspur,Wolverhampton Wanderers,in,49,6,4,2,0,44,3983,8.8,3.1,0.43,1832,75.9,74,39,2854,1250,0,0,0,0,0,0.41,2020/2021,Republic of Ireland,16.8
+Nathan AkÃ©,25,Centre-Back,Manchester City,Bournemouth,in,30,2,2,2,0,28,2593,3,0.3,0.24,1079,87.2,31,40,1557,958,0,0,0,0,0,-0.59,2020/2021,Netherlands,45.3
+Oliver Burke,23,Centre-Forward,Sheffield United,West Bromwich Albion,in,40,2,3,5,0,38,3450,1.4,1.7,0.21,1344,83.5,53,47,2048,946,0,0,0,0,0,-0.39,2020/2021,England,6.5
+Pierre-Emile HÃ¶jbjerg,25,Central Midfield,Tottenham Hotspur,Southampton FC,in,51,2,5,12,0,46,4174,1.4,1.6,0.17,2699,88.1,104,54,3432,2005,0,0,0,0,0,0.73,2020/2021,Denmark,16.6
+Raphinha,23,Right Winger,Leeds United,Stade Rennais,in,33,4,3,8,2,33,3000,2.6,2.3,0.6,1503,81.9,71,51,2226,1179,0,0,0,0,0,-0.57,2020/2021,England,18.6
+Terence Kongolo,26,Centre-Back,Fulham FC,Huddersfield Town,in,11,0,1,0,0,9,872,0.2,0.5,0.21,378,73.3,27,11,625,241,0,0,0,0,0,-1.34,2020/2021,Netherlands,4.4
+Timo Werner,24,Centre-Forward,Chelsea FC,RB Leipzig,in,45,34,12,5,0,39,3576,26.1,9.5,1.89,965,72.6,25,18,1774,1118,0,0,0,0,0,1.41,2020/2021,Germany,53
+Tosin Adarabioyo,23,Centre-Back,Fulham FC,Manchester City,in,34,0,0,1,0,33,3034,1.1,0.4,0.15,1647,85.9,37,26,2272,1337,0,0,0,0,0,-0.59,2020/2021,England,1.65
+Wesley Fofana,19,Centre-Back,Leicester City,Saint-Ã‰tienne,in,24,2,0,9,1,3,1969,0.9,0.1,0.05,600,80.9,31,11,942,527,0,0,0,0,0,-0.14,2020/2021,France,35
+Ally Samatta,28,Centre-Forward,Fenerbahce,Aston Villa,out,42,12,0,4,0,35.2,1378,4.1,0.7,0.88,119,67.6,8,11,197,111,0,0,0,0,0,-0.91,2021/2022,Tanzania,6
+Andrey Santos,18,Central Midfield,Vasco da Gama,Chelsea FC,in,6,1,0,3,0,4.7,421,1.2,0.1,0.43,107,77.5,15,5,197,89,0,0,0,0,0,-0.43,2022/2023,Brazil,12.5
+AndrÃƒÂ© Zambo Anguissa,26,Defensive Midfield,SSC Napoli,Fulham FC,out,41,0,3,6,0,31.1,2802,1.6,2.5,0.28,1256,84,79,39,1900,1128,0,0,0,0,0,-0.69,2022/2023,Cameroon,15
+AngeliÃƒÂ±o,24,Left-Back,RB Leipzig,Manchester City,out,37,8,9,4,0,35.1,3157,5.6,7.3,0.54,1343,70.3,46,30,2200,1083,0,0,0,0,0,0.88,2021/2022,Spain,18
+Antony,22,Right Winger,Ajax,Manchester United,in,25,9,6,5,1,21.2,1904,7.5,5.1,1.36,977,77.7,24,19,1540,1069,0,0,0,0,0,3,2022/2023,Brazil,95
+Arijanet Muric,23,Goalkeeper,Burnley FC,Manchester City,out,31,0,0,3,0,30.9,2778,0,0,0,261,59.2,3,0,469,282,38,1.23,120,78.9,,0.06,2022/2023,Switzerland,3
+Armel Bella-Kotchap,20,Centre-Back,VfL Bochum,Southampton FC,in,26,0,0,5,0,23.6,2121,0.6,0.1,0.13,565,76.5,34,21,965,539,0,0,0,0,0,-0.72,2022/2023,Germany,10
+Bernard,28,Left Winger,Sharjah FC,Everton FC,out,18,3,1,2,0,8.9,805,0.3,0.6,0.89,219,81.1,8,5,337,225,0,0,0,0,0,0.22,2021/2022,Brazil,1
+Brandon Aguilera,19,Attacking Midfield,LD Alajuelense,Nottingham Forest,in,6,0,1,1,0,2.5,225,0,0,0,27,71.1,2,1,44,31,0,0,0,0,0,-0.4,2022/2023,Costa Rica,0.95
+Bruno GuimarÃƒÂ£es,24,Defensive Midfield,Olympique Lyon,Newcastle United,in,25,0,5,2,0,20.8,1868,1.2,3.9,0.14,1353,86.5,58,28,1791,1229,0,0,0,0,0,0.67,2021/2022,Brazil,42.1
+Bryan Gil,20,Left Winger,Sevilla FC,Tottenham Hotspur,in,30,4,4,6,0,25.5,2299,3.6,5,0.63,682,67.7,29,20,1327,881,0,0,0,0,0,-0.31,2021/2022,Spain,25
+Carlos VinÃƒÂ­cius,27,Centre-Forward,Benfica,Fulham FC,in,33,7,7,8,0,16,1438,10.7,5.3,1.13,255,72.9,10,9,541,286,0,0,0,0,0,1.82,2022/2023,Brazil,5
+Casemiro,30,Defensive Midfield,Real Madrid,Manchester United,in,50,1,4,16,0,44.6,4016,3,3.1,0.39,2182,85.7,109,82,3032,1654,0,0,0,0,0,0.99,2022/2023,Brazil,70.65
+Chiquinho,21,Left Winger,Estoril Praia,Wolverhampton Wanderers,in,15,3,1,5,0,9.3,838,1.8,0.5,0.75,92,56.1,24,6,294,197,0,0,0,0,0,0.86,2021/2022,Portugal,3.5
+Cristiano Ronaldo,36,Centre-Forward,Juventus,Manchester United,in,44,36,4,5,0,41.7,3750,32.2,4.5,1.87,1012,77.7,6,12,1728,1013,0,0,0,0,0,1.2,2021/2022,Portugal,15
+Danilo,21,Defensive Midfield,Palmeiras,Nottingham Forest,in,42,3,3,6,2,36.8,3309,4.6,2.4,0.44,1342,82.2,79,38,1992,1111,0,0,0,0,0,1.28,2022/2023,Brazil,20
+Diego Carlos,29,Centre-Back,Sevilla FC,Aston Villa,in,45,3,0,8,1,43.2,3886,2.3,0.2,0.25,2381,87.4,44,59,3079,1913,0,0,0,0,0,0.56,2022/2023,Brazil,31
+Diego Rosa,20,Central Midfield,EC Bahia,Manchester City,out,7,0,0,0,0,1.5,134,0.2,0,1.34,82,77.4,8,2,129,70,0,0,0,0,0,-1.34,2022/2023,Brazil,2.3
+Dimitrios Giannoulis,25,Left-Back,PAOK Salonika,Norwich City,in,16,0,2,7,0,14.5,1305,0.1,0.6,0.11,142,73.6,5,3,232,128,0,0,0,0,0,0.62,2021/2022,Greece,7.5
+Duje Caleta-Car,25,Centre-Back,Marseille,Southampton FC,in,39,2,0,7,0,34.6,3112,2,0.7,0.12,2259,91.4,26,21,2670,2049,0,0,0,0,0,0.35,2022/2023,Croatia,10
+Emerson Royal,22,Right-Back,Barcelona,Tottenham Hotspur,in,41,2,4,9,1,36.4,3276,1.5,2.7,0.11,1590,79.2,94,34,2440,1226,0,0,0,0,0,0.42,2021/2022,Brazil,25
+Felipe,33,Centre-Back,"Atlético de Madrid
+",Nottingham Forest,in,39,2,1,9,3,27.1,2437,0.8,0.4,0.17,982,81.7,29,31,1446,813,0,0,0,0,0,0.29,2022/2023,Brazil,2.3
+Felipe Anderson,28,Right Winger,Lazio,West Ham United,out,11,1,2,0,0,5.1,466,0.1,0.2,0.47,62,76.1,4,5,117,70,0,0,0,0,0,0.47,2021/2022,Brazil,3
+Ferran Torres,21,Left Winger,Barcelona,Manchester City,out,43,16,4,1,0,29.1,2627,10.4,2.8,1.09,470,79.4,18,20,832,521,0,0,0,0,0,1.41,2021/2022,Spain,55
+FÃƒÂ¡bio Vieira,22,Attacking Midfield,FC Porto,Arsenal FC,in,32,6,13,3,0,17.4,1562,4.1,6.5,0.75,722,75.6,26,10,1163,784,0,0,0,0,0,1.79,2022/2023,Portugal,35
+GonÃƒÂ§alo Guedes,25,Left Winger,Valencia,Wolverhampton Wanderers,in,42,13,6,3,0,33.4,3007,6.4,4,0.78,563,64.1,21,14,1208,814,0,0,0,0,0,0.03,2022/2023,Portugal,32.6
+Hassane Kamara,27,Left-Back,OGC Nice,Watford FC,in,42,3,2,4,0,37.5,3373,1.6,2.5,0.16,1722,80.7,72,44,2535,1492,0,0,0,0,0,-0.08,2021/2022,France,4
+Hee-chan Hwang,26,Centre-Forward,RB Leipzig,Wolverhampton Wanderers,in,29,3,4,3,0,9.5,1936,2.4,0.8,0.93,102,63.8,3,6,237,126,0,0,0,0,0,0.7,2022/2023,South Korea,16.7
+Ilya Zabarnyi,20,Centre-Back,Dynamo Kyiv,AFC Bournemouth,in,19,0,0,5,2,18.5,1665,0,0,0,277,82.9,12,7,389,265,0,0,0,0,0,0.38,2022/2023,Ukraine,22.7
+James RodrÃƒÂ­guez,30,Attacking Midfield,Al-Rayyan SC,Everton FC,out,26,6,8,4,0,22.6,2032,2.8,4.8,0.8,901,78.4,28,17,1313,827,0,0,0,0,0,0.4,2021/2022,Colombia,8
+Josh Bowler,23,Right Winger,Blackpool,Nottingham Forest,in,45,8,3,6,0,33.5,3014,6.4,4.8,0.75,387,66.3,39,16,1041,704,0,0,0,0,0,0.33,2022/2023,England,2.3
+JosÃƒÂ© SÃƒÂ¡,28,Goalkeeper,Olympiacos,Wolverhampton Wanderers,in,39,0,0,3,0,39,3510,0,0,0,251,66.4,1,0,402,242,17,1.7,38,74.5,15.4,1.23,2021/2022,Portugal,8
+JoÃƒÂ£o Gomes,21,Central Midfield,Flamengo,Wolverhampton Wanderers,in,41,0,2,11,0,30,2702,1.7,2.1,0.2,1240,85.1,128,35,1854,1101,0,0,0,0,0,0.38,2022/2023,Brazil,18.7
+JoÃƒÂ£o Palhinha,26,Defensive Midfield,Sporting CP,Fulham FC,in,33,3,0,8,1,26.7,2402,3.1,0.8,0.45,1093,86.5,103,41,1604,809,0,0,0,0,0,0.94,2022/2023,Portugal,20
+Juan Larios,18,Left-Back,Manchester City,Southampton FC,in,9,0,2,2,0,6.8,612,0,0,0,356,76.8,20,0,423,89,0,0,0,0,0,2.06,2022/2023,Spain,7
+Julio Enciso,18,Second Striker,Libertad,Brighton & Hove Albion,in,17,11,3,2,0,14.7,1327,0.4,0.5,1.75,41,73.2,3,2,89,67,0,0,0,0,0,1.09,2022/2023,Paraguay,11.6
+Junior Firpo,24,Left-Back,Barcelona,Leeds United,in,18,1,1,3,0,9.7,874,0.7,0.5,0.21,414,90.2,8,10,523,315,0,0,0,0,0,1.34,2021/2022,Dominican Republic,15
+Kacper Kozlowski,18,Central Midfield,Pogon Szczecin,Brighton & Hove Albion,in,16,3,2,2,0,10.2,910,3,3.8,0,272,69.3,16,12,543,345,0,0,0,0,0,1.48,2021/2022,Poland,11
+Kenedy,26,Left Winger,Real Valladolid,Chelsea FC,out,18,1,2,2,0,7.1,643,1.6,1.2,1.41,211,73.3,17,5,396,270,0,0,0,0,0,0.17,2022/2023,Brazil,0.5
+Kristoffer Ajer,23,Centre-Back,Celtic,Brentford FC,in,40,2,4,1,0,38.3,3449,0,0.3,0.13,150,78.1,11,6,236,136,0,0,0,0,0,1.12,2021/2022,Norway,15.7
+Leo Ãƒâ€“stigard,22,Centre-Back,SSC Napoli,Brighton & Hove Albion,out,32,2,0,10,2,29.3,2644,1.4,0.4,0.11,1045,74.7,20,30,1621,870,0,0,0,0,0,-1.05,2022/2023,Norway,5
+Lucas PaquetÃƒÂ¡,25,Attacking Midfield,Olympique Lyon,West Ham United,in,44,11,8,4,0,36.3,3270,13.1,7.6,1.1,1515,78.4,78,47,2494,1692,0,0,0,0,0,0.63,2022/2023,Brazil,42.95
+Luke Plange,19,Centre-Forward,Derby,Crystal Palace,in,27,4,2,1,0,18.7,1681,3.6,1.1,0.59,198,76.4,6,12,432,268,0,0,0,0,0,0,2021/2022,England,1.18
+Lyanco,24,Centre-Back,Torino,Southampton FC,in,25,1,0,9,0,23.5,2116,1,0.5,0.17,1079,85.4,21,36,1484,912,0,0,0,0,0,-0.64,2021/2022,Brazil,7.5
+Marc Roca,25,Defensive Midfield,Bayern Munich,Leeds United,in,13,0,0,0,0,5.1,460,0.2,0.3,0,316,88.5,12,8,419,227,0,0,0,0,0,2.74,2022/2023,Spain,12
+Marko Grujic,26,Central Midfield,FC Porto,Liverpool FC,out,33,3,1,13,2,15.4,1389,3.5,1.3,0.52,605,83.7,30,21,874,443,0,0,0,0,0,1.56,2022/2023,Serbia,9
+Marquinhos,19,Right Winger,SÃƒÆ’Ã‚Â£o Paulo,Arsenal FC,in,23,1,2,2,0,8.7,780,2.3,0.8,1.27,173,69.8,16,9,359,225,0,0,0,0,0,-0.46,2022/2023,Brazil,3.5
+Matheus Nunes,23,Central Midfield,Sporting CP,Wolverhampton Wanderers,in,39,3,3,7,0,34,3063,2.3,3.1,0.21,1393,83.9,54,29,2062,1371,0,0,0,0,0,0.97,2022/2023,Portugal,45
+Mislav Orsic,30,Left Winger,Dinamo Zagreb,Southampton FC,in,21,10,5,1,0,15.9,1428,1.1,0.3,1.58,190,70.1,5,3,218,156,0,0,0,0,0,1.13,2022/2023,Croatia,5.75
+Nikola Vlasic,23,Attacking Midfield,CSKA Moscow,West Ham United,in,31,11,6,4,0,30,"2700",0.8,1.3,1.5,258,74.8,3,3,328,183,0,0,0,0,0,0.37,2021/2022,Croatia,30
+Nuno Da Costa,31,Centre-Forward,AJ Auxerre,Nottingham Forest,out,1,0,0,0,0,0.46,41,,,0,24,54.2,,,,,0,0,0,0,0,-2.2,2022/2023,Cape Verde,2
+Nuno Tavares,21,Left-Back,Benfica,Arsenal FC,in,19,0,0,3,0,9.7,877,0.4,1.3,0.21,690,77.5,19,6,814,486,0,0,0,0,0,0.1,2021/2022,Portugal,8
+Pablo Sarabia,30,Right Winger,Paris SG,Wolverhampton Wanderers,in,19,0,0,2,0,7,634,1.4,1.4,0.57,213,77,6,4,257,205,0,0,0,0,0,2.41,2022/2023,Spain,5
+Paul Onuachu,28,Centre-Forward,KRC Genk,Southampton FC,in,34,20,2,5,0,28,2522,1.8,0.6,1.86,103,72.8,1,3,159,97,0,0,0,0,0,0.36,2022/2023,Nigeria,18
+Pedro Porro,22,Right-Back,Sporting CP,Manchester City,out,30,5,3,8,0,24,2164,3.7,5.7,0.46,1319,68.2,53,29,1634,834,0,0,0,0,0,1,2022/2023,Spain,8.5
+Percy Tau,27,Right Winger,El Ahly,Brighton & Hove Albion,out,6,0,1,0,0,3.4,303,0,0.4,0.3,33,72.7,1,1,43,29,0,0,0,0,0,-0.3,2021/2022,South Africa,1.8
+Philippe Coutinho,30,Left Winger,Barcelona,Aston Villa,in,16,2,0,1,0,6.8,614,3.2,0.3,1.03,397,81.4,8,3,488,350,0,0,0,0,0,-0.44,2022/2023,Brazil,20
+Rafa Mir,24,Centre-Forward,Sevilla FC,Wolverhampton Wanderers,out,39,16,1,2,0,33.2,2989,15.3,1,1.38,457,54.5,15,14,802,380,0,0,0,0,0,-0.36,2021/2022,Spain,16
+Raphinha,25,Right Winger,Barcelona,Leeds United,out,36,11,3,7,0,32.9,2960,10.2,7.5,0.64,1301,63.3,51,43,1796,991,0,0,0,0,0,-1.06,2022/2023,Brazil,58
+Rayan AÃƒÂ¯t-Nouri,20,Left-Back,Angers SCO,Wolverhampton Wanderers,in,3,0,1,0,0,2.1,187,0.1,0.3,0,147,89.8,3,2,167,98,0,0,0,0,0,-2.41,2021/2022,Algeria,11.1
+Rui PatrÃƒÂ­cio,33,Goalkeeper,AS Roma,Wolverhampton Wanderers,out,37,0,0,1,0,37,3329,0,0,0,810,69,0,0,870,380,51,1.38,99,70.3,45.3,-0.41,2021/2022,Portugal,11.8
+Yaser Asprilla,18,Attacking Midfield,Envigado,Watford FC,in,18,1,2,2,0,15.9,1435,,,0.31,,,,,,,0,0,0,0,0,-0.56,2021/2022,Colombia,3
+ÃƒÂlex Moreno,29,Left-Back,Real Betis,Aston Villa,in,19,0,3,1,0,15.8,1422,1.3,1.5,0.25,560,75.6,33,19,947,433,0,0,0,0,0,0.51,2022/2023,Spain,13.5
+Andreas Pereira,26,Attacking Midfield,Manchester United,Fulham FC,in,21,5,1,4,0,18.4,1652,2.2,2.4,0.44,835,80.2,34,16,1228,783,0,0,0,0,0,1.2,2022/2023,Belgium,9.5
+Ben White,23,Centre-Back,Brighton & Hove Albion,Arsenal FC,in,38,0,0,5,1,38.4,3458,0.5,0.9,0.03,1491,82.3,49,46,2117,1225,0,0,0,0,0,-0.21,2021/2022,England,58.5
+Emerson,28,Left-Back,Chelsea FC,West Ham United,in,37,1,2,4,1,31.8,2854,1.4,3.7,0.22,1923,84.7,54,31,2614,1560,0,0,0,0,0,0.25,2022/2023,Brazil,15.4
+FÃƒÂ¡bio Carvalho,19,Attacking Midfield,Fulham FC,Liverpool FC,in,38,11,7,6,0,33.4,3003,8.6,9.6,1.14,831,81.6,39,20,1394,997,0,0,0,0,0,1.02,2022/2023,Portugal,5.9
+Gabriel Jesus,25,Centre-Forward,Manchester City,Arsenal FC,in,41,13,11,5,0,28.9,2601,11.6,6.9,1.11,747,83.1,23,23,1196,789,0,0,0,0,0,1.63,2022/2023,Brazil,52.2
+Jannik Vestergaard,29,Centre-Back,Southampton FC,Leicester City,in,32,3,0,4,1,30.4,2740,1.5,0.5,0.26,1476,83.2,50,29,2077,1210,0,0,0,0,0,-0.07,2021/2022,Denmark,17.6
+Jorginho,31,Defensive Midfield,Chelsea FC,Arsenal FC,in,25,3,0,4,0,19.5,1759,2.6,0.6,0.1,1083,87,56,31,1442,851,0,0,0,0,0,0.26,2022/2023,Brazil,11.3
+Mario Lemina,29,Defensive Midfield,OGC Nice,Wolverhampton Wanderers,in,20,1,1,2,1,15,1354,0.6,0.4,0.27,829,88.1,49,15,1079,854,0,0,0,0,0,0.4,2022/2023,Gabon,11
+Richarlison,25,Centre-Forward,Everton FC,Tottenham Hotspur,in,33,11,5,9,0,30.5,2745,9.2,3.6,0.75,339,59.7,40,42,999,576,0,0,0,0,0,-0.43,2022/2023,Brazil,58
+Marc Cucurella,23,Left-Back,Getafe,Brighton & Hove Albion,in,1,0,0,0,0,0.3,23,0.2,0.1,0,15,71.4,0,0,24,16,0,0,0,0,0,0,2021/2022,Spain,18
+Marc Cucurella,24,Left-Back,Brighton & Hove Albion,Chelsea FC,in,38,1,2,6,0,36.3,3267,0.7,2.7,0.08,1890,80.2,93,42,2717,1431,0,0,0,0,0,-0.03,2022/2023,Spain,65.3
+Aaron Ramsdale,23,Goalkeeper,Sheff United,Arsenal FC,in,42,0,0,1,0,42,3780,0,0,0,1153,49.3,1,0,1274,650,68,1.62,152,70.2,54.3,-1,2021/2022,England,28
+Alphonse Areola,29,Goalkeeper,Paris SG,West Ham United,in,18,0,0,0,0,19,1710,0,0,0,357,67.5,1,0,379,219,15,0.79,54,79.1,10.5,0.42,2022/2023,France,9.3
+Ben Wilmot,21,Centre-Back,Stoke City,Watford FC,out,27,1,1,4,0,15.9,1435,1.6,0.7,0.06,623,74.1,10,18,979,517,0,0,0,0,0,0.13,2021/2022,England,1.75
+BendegÃƒÂºz Bolla,21,Right-Back,FehÃƒÆ’Ã‚Â©rvÃƒÆ’Ã‚Â¡r,Wolverhampton Wanderers,in,27,0,,4,0,23.8,2145,,,,,,,,,,0,0,0,0,0,1.38,2021/2022,Hungary,2
+BenoÃƒÂ®t Badiashile,21,Centre-Back,Monaco,Chelsea FC,in,24,1,0,4,0,20.4,1838,1.6,0.4,0.66,1511,86.7,18,11,1993,1228,0,0,0,0,0,0.55,2022/2023,France,38
+BjÃƒÂ¶rn Engels,26,Centre-Back,Royal Antwerp,Aston Villa,out,19,1,0,1,0,18.1,1627,1,0.3,0.11,548,83.9,11,18,819,426,0,0,0,0,0,-0.77,2021/2022,Belgium,3.5
+Boubakary SoumarÃƒÂ©,22,Defensive Midfield,LOSC Lille,Leicester City,in,43,0,2,4,0,28.8,2590,0.5,1.3,0.17,1609,86.6,52,18,2064,1336,0,0,0,0,0,0.8,2021/2022,France,20
+Brenden Aaronson,21,Attacking Midfield,RB Salzburg,Leeds United,in,34,4,6,1,0,28.9,2603,0.5,1,0.69,177,75.3,14,6,342,175,0,0,0,0,0,1,2022/2023,United States,32.84
+Brice Samba,28,Goalkeeper,Lens,Nottingham Forest,out,42,0,0,6,1,41.9,3774,0,0,0,1283,72.3,1,2,1855,1172,36,0.86,114,78.5,39.5,0.74,2022/2023,Congo,5
+Cameron Carter-Vickers,24,Centre-Back,Celtic,Tottenham Hotspur,out,39,4,2,6,0,39,3510,0.1,0,0.41,438,89.6,5,6,541,353,0,0,0,0,0,1.38,2022/2023,United States,7
+Carlos Alcaraz,20,Central Midfield,Racing Club,Southampton FC,in,25,4,1,3,1,15.9,1433,0.25,0.06,1.19,,,,,,,0,0,0,0,0,0.44,2022/2023,Argentina,13.65
+Cheick DoucourÃƒÂ©,22,Defensive Midfield,Lens,Crystal Palace,in,37,1,4,7,1,35.7,3216,1.6,3.6,0.36,1656,87,75,30,2193,1465,0,0,0,0,0,0.34,2022/2023,Mali,22.6
+Chris Richards,22,Centre-Back,Bayern Munich,Crystal Palace,in,1,0,0,0,0,0,48,0.5,0,0,3,100,0,1,4,2,0,0,0,0,0,13.12,2022/2023,United States,12
+Christian Benteke,31,Centre-Forward,D.C. United,Crystal Palace,out,31,4,1,3,0,13.8,1239,4.9,1.3,1.09,196,64.3,3,7,450,203,0,0,0,0,0,-0.36,2022/2023,Belgium,5.46
+Christos Tzolis,19,Left Winger,PAOK Salonika,Norwich City,in,38,9,6,2,0,25.8,2325,0.8,0.2,1.06,62,72.9,3,4,133,78,0,0,0,0,0,0.66,2021/2022,Greece,11
+Cody Gakpo,23,Left Winger,PSV Eindhoven,Liverpool FC,in,36,17,13,3,0,29.1,2617,12.6,12.7,1.31,755,67.9,17,30,1550,949,0,0,0,0,0,1.03,2022/2023,Netherlands,42
+Connor Roberts,25,Right-Back,Swansea,Burnley FC,in,48,5,7,7,0,45.2,4069,2.2,8,0.27,1690,65.2,33,67,2932,1354,0,0,0,0,0,0.33,2021/2022,Wales,2.9
+Connor Ronan,24,Central Midfield,Colorado,Wolverhampton Wanderers,out,2,0,0,0,0,0.4,65,0,0,,3,75,0,0,4,1,0,0,0,0,0,0,2022/2023,Republic of Ireland,0.57
+Cristian Romero,24,Centre-Back,Atalanta BC,Tottenham Hotspur,in,42,3,4,15,0,39.2,3530,1.9,1.6,0.25,1381,86.3,81,50,2052,1025,0,0,0,0,0,0.99,2022/2023,Argentina,50
+Dango Ouattara,20,Right Winger,FC Lorient,AFC Bournemouth,in,26,6,5,3,1,17.2,1548,5.2,3.1,0.99,267,60.1,41,24,720,502,0,0,0,0,0,0.12,2022/2023,Burkina Faso,22.5
+Daniel Bentley,29,Goalkeeper,Bristol City,Wolverhampton Wanderers,in,38,0,0,3,0,37.3,3358,0,0,0,712,55.2,0,0,1403,624,56,1.5,122,70.9,56,-0.27,2022/2023,England,0.057
+Darko Gyabi,18,Central Midfield,Manchester City,Leeds United,in,11,1,3,0,0,7.5,675,,,,,,,,,,0,0,0,0,0,1.6,2022/2023,England,5.8
+Darwin NÃƒÂºÃƒÂ±ez,23,Centre-Forward,Benfica,Liverpool FC,in,38,32,4,7,0,28.8,2590,21.5,17.6,1.56,357,60.2,20,20,950,603,0,0,0,0,0,1.36,2022/2023,Uruguay,75
+David Datro Fofana,20,Centre-Forward,Molde,Chelsea FC,in,24,15,3,2,0,18.6,1678,,,3.97,,,,,,,0,0,0,0,0,1.39,2022/2023,CÃƒÆ’Ã‚Â´te d'Ivoire,12
+Davide Zappacosta,29,Right-Back,Atalanta BC,Chelsea FC,out,25,4,2,3,0,22.7,2045,2.6,1.4,0.57,859,78.8,33,17,1375,780,0,0,0,0,0,0.09,2021/2022,Italy,6
+Demarai Gray,25,Left Winger,Bay. Leverkusen,Everton FC,in,12,1,2,0,0,6.2,560,1.9,1.7,1.29,150,67.3,5,3,290,194,0,0,0,0,0,-1.45,2021/2022,England,2
+Deniz Undav,25,Centre-Forward,Union SG,Brighton & Hove Albion,in,33,25,9,6,0,32,2880,,,1.72,,,,,,,0,0,0,0,0,1.44,2021/2022,Germany,7
+Destiny Udogie,19,Left-Back,Udinese Calcio,Tottenham Hotspur,in,37,5,3,4,0,29.9,2687,4.4,2.3,0.4,701,78.9,64,39,1233,631,0,0,0,0,0,0.4,2022/2023,Italy,18
+Djed Spence,21,Right-Back,Middlesbrough FC,Tottenham Hotspur,in,43,3,4,5,0,41.9,3770,1,4.2,0.21,1390,75.1,54,43,2373,1289,0,0,0,0,0,1.05,2022/2023,England,14.7
+Dwight McNeil,22,Left Winger,Burnley FC,Everton FC,in,40,0,1,2,0,36.3,3271,2.3,4.6,0.41,782,67.8,78,64,1620,933,0,0,0,0,0,-0.5,2022/2023,England,24
+Edo Kayembe,23,Defensive Midfield,KAS Eupen,Watford FC,in,17,4,1,3,0,16.3,1471,,,0.49,,,,,,,0,0,0,0,0,0.18,2021/2022,Congo DR,4.7
+Enock Mwepu,23,Central Midfield,RB Salzburg,Brighton & Hove Albion,in,37,5,1,5,0,30.7,2761,2,1.5,0.88,296,75.5,27,10,515,303,0,0,0,0,0,0.98,2021/2022,Zambia,23
+Enzo FernÃƒÂ¡ndez,22,Central Midfield,Benfica,Chelsea FC,in,22,1,6,6,0,20.1,1809,2.6,4,1.99,1744,86.6,59,20,2212,1364,0,0,0,0,0,1.54,2022/2023,Argentina,121
+Erling Haaland,21,Centre-Forward,Bor. Dortmund,Manchester City,in,30,29,8,3,0,26.5,2384,21.2,5.9,1.81,360,68.2,2,9,790,376,0,0,0,0,0,0.76,2022/2023,Norway,60
+Facundo Buonanotte,18,Attacking Midfield,Rosario Central,Brighton & Hove Albion,in,24,4,3,5,0,20.3,1825,,,0.69,,,2,5,,,0,0,0,0,0,-0.15,2022/2023,Argentina,6
+Fikayo Tomori,23,Centre-Back,AC Milan,Chelsea FC,out,4,0,0,0,0,2.6,236,0,0,0,28,96.6,2,1,41,13,0,0,0,0,0,1.91,2021/2022,England,28.8
+Flynn Downes,23,Central Midfield,Swansea,West Ham United,in,39,1,2,13,1,33.5,3019,0.7,1.2,0.13,2295,92.6,34,21,2754,1677,0,0,0,0,0,-0.33,2022/2023,England,10.65
+Frank Onyeka,23,Central Midfield,FC Midtjylland,Brentford FC,in,33,3,2,4,0,29.9,2688,0.7,0.1,0.23,149,83.7,18,8,255,124,0,0,0,0,0,0.44,2021/2022,Nigeria,10
+Frederik Alves,22,Centre-Back,BrÃƒÆ’Ã‚Â¶ndby IF,West Ham United,out,7,0,0,0,0,3.6,325,,,0,,,,,,,0,0,0,0,0,0.83,2021/2022,Denmark,1
+Gabriel Slonina,18,Goalkeeper,Chicago Fire,Chelsea FC,in,32,0,0,0,0,32,2880,0,0,0,629,68.7,0,0,1001,449,45,1.41,80,67.7,43.5,-0.31,2022/2023,United States,9.09
+Garang Kuol,18,Right Winger,Central Coast,Newcastle United,in,9,2,3,3,0,4.3,390,,,0.1,,,,,,,0,0,0,0,0,2.31,2022/2023,Australia,0.35
+Gavin Bazunu,20,Goalkeeper,Manchester City,Southampton FC,in,46,0,0,0,0,46,4140,0,0,0,,,,,,,53,1.15,139,73.2,,0.33,2022/2023,Republic of Ireland,14
+Georginio Rutter,20,Centre-Forward,TSG Hoffenheim,Leeds United,in,17,2,3,2,0,12.8,1156,3,2.3,1.25,95,60.1,7,10,338,235,0,0,0,0,0,0.62,2022/2023,France,28
+Gianluca Scamacca,23,Centre-Forward,Sassuolo,West Ham United,in,38,16,1,7,0,25.6,2304,11,10.2,1.41,399,72.5,19,16,808,461,0,0,0,0,0,0.08,2022/2023,Italy,36
+Giulian Biancone,22,Right-Back,Troyes,Nottingham Forest,in,33,1,2,11,0,25.5,2292,1.7,1,0.35,939,73.4,70,23,1600,909,0,0,0,0,0,0.5,2022/2023,France,10
+Harrison Ashby,21,Right-Back,West Ham United,Newcastle United,in,1,0,0,0,0,0.3,25,0,0.1,0,9,69.2,0,0,14,8,0,0,0,0,0,0,2022/2023,Scotland,3.4
+Harry Souttar,24,Centre-Back,Stoke City,Leicester City,in,3,0,1,0,0,2,183,0,0,0,221,64.8,11,2,426,192,0,0,0,0,0,-0.14,2022/2023,Australia,17
+Harry Toffolo,26,Left-Back,Huddersfield Town,Nottingham Forest,in,45,6,7,4,0,42,3776,3.7,5.3,0.26,1401,72.9,41,27,2262,1062,0,0,0,0,0,0.43,2022/2023,England,2.4
+Harry Wilson,24,Right Winger,Fulham FC,Liverpool FC,out,1,0,0,1,0,1,90,0,0,0,,,,,,,0,0,0,0,0,0,2021/2022,Wales,14
+Hayao Kawabe,26,Central Midfield,Grasshoppers,Wolverhampton Wanderers,in,20,3,1,2,0,17.8,1603,,,0.34,,,,,,,0,0,0,0,0,0.17,2021/2022,Japan,0.6
+Ibrahima KonatÃƒÂ©,22,Centre-Back,RB Leipzig,Liverpool FC,in,21,1,0,4,0,14.3,1291,0.9,0,0.21,706,83.9,16,13,957,617,0,0,0,0,0,0.28,2021/2022,France,40
+Idrissa Gueye,32,Central Midfield,Paris SG,Everton FC,in,33,4,1,5,0,22.7,2040,1.6,1.8,0.4,1482,92.2,74,28,1844,1231,0,0,0,0,0,0.88,2022/2023,Senegal,4
+ImrÃƒÂ¢n Louza,22,Central Midfield,FC Nantes,Watford FC,in,33,7,2,4,1,26.4,2379,5.8,1.8,0.34,1028,77.8,55,20,1586,825,0,0,0,0,0,-0.23,2021/2022,Morocco,10
+Isaac Success,25,Centre-Forward,Udinese Calcio,Watford FC,out,10,1,0,2,0,4,360,0.2,0.3,0.75,80,65.6,2,0,162,112,0,0,0,0,0,0.75,2021/2022,Nigeria,1.8
+Jadon Sancho,21,Left Winger,Bor. Dortmund,Manchester United,in,38,16,19,1,0,32.9,2963,7.7,9.3,0.85,1361,78.6,21,20,2078,1320,0,0,0,0,0,1.15,2021/2022,England,85
+Jakub Kiwior,22,Centre-Back,Spezia Calcio,Arsenal FC,in,20,0,0,3,0,19,1713,0.6,0.2,0.16,653,84.3,22,26,953,464,0,0,0,0,0,-0.42,2022/2023,Poland,25
+James Bree,25,Right-Back,Luton,Southampton FC,in,29,0,4,3,0,29,2609,0.6,7.6,0.1,802,64.2,34,23,1474,622,0,0,0,0,0,0.21,2022/2023,England,0.85
+James Garner,21,Defensive Midfield,Manchester United,Everton FC,in,46,4,10,9,0,41.5,3733,3.9,7.9,0.36,1197,74.1,74,46,1972,1053,0,0,0,0,0,0.82,2022/2023,England,10.4
+Jean-Philippe Mateta,24,Centre-Forward,1.FSV Mainz 05,Crystal Palace,in,17,10,1,3,0,12.7,1146,8.6,1.4,1.41,168,70.6,6,3,369,195,0,0,0,0,0,-0.55,2021/2022,France,11
+Jhon DurÃƒÂ¡n,19,Centre-Forward,Chicago Fire,Aston Villa,in,27,8,3,7,1,15.2,1367,8,1.8,1.58,215,69.6,13,14,525,316,0,0,0,0,0,0,2022/2023,Colombia,16.64
+Joachim Andersen,25,Centre-Back,Olympique Lyon,Crystal Palace,in,32,2,0,4,0,27.3,2460,1.3,0.3,0.07,1410,89.6,20,22,1777,1059,0,0,0,0,0,0.73,2021/2022,Denmark,17.5
+Joe Aribo,25,Central Midfield,Rangers,Southampton FC,in,49,9,7,8,0,42.1,3792,3,5.3,0.5,338,76.8,20,12,615,377,0,0,0,0,0,1.07,2022/2023,Nigeria,7.1
+Joe Hart,34,Goalkeeper,Celtic,Tottenham Hotspur,out,8,0,0,0,0,7.9,711,0,0,0,169,71,0,0,172,111,5,0.63,15,75,3.4,2.91,2021/2022,England,1.2
+Josh Benson,21,Central Midfield,Barnsley FC,Burnley FC,out,21,0,2,1,0,13.6,1224,0.2,0,0,62,72.9,5,3,110,52,0,0,0,0,0,-0.63,2021/2022,England,1.2
+Josh Sargent,21,Centre-Forward,Werder Bremen,Norwich City,in,37,7,3,7,0,32.9,2962,5.5,3.8,0.76,411,69.4,32,39,930,444,0,0,0,0,0,-0.33,2021/2022,United States,9.5
+Juan Foyth,23,Right-Back,Villarreal,Tottenham Hotspur,out,7,0,0,1,0,3,266,0,0,0,173,87.8,11,3,241,165,0,0,0,0,0,-0.34,2021/2022,Argentina,15
+JuliÃƒÂ¡n ÃƒÂlvarez,22,Centre-Forward,River Plate,Manchester City,in,31,20,7,1,0,24.9,2242,2.2,1,1.57,198,61.5,12,4,418,244,0,0,0,0,0,0.92,2021/2022,Argentina,17
+Kalidou Koulibaly,31,Centre-Back,SSC Napoli,Chelsea FC,in,34,3,1,7,1,33.7,3035,1.4,1.3,0.27,1824,86.7,53,47,2434,1536,0,0,0,0,0,1.22,2022/2023,Senegal,38
+Kamaldeen Sulemana,20,Left Winger,Rennes,Southampton FC,in,14,1,0,1,0,3.6,326,1.4,0.6,0.82,161,78.9,10,3,313,252,0,0,0,0,0,0.98,2022/2023,Ghana,25
+Kaoru Mitoma,24,Left Winger,Kawasaki Front.,Brighton & Hove Albion,in,30,8,3,0,0,13.6,1227,,,1.32,,,,,,,0,0,0,0,0,1.69,2021/2022,Japan,3
+Kasper Schmeichel,35,Goalkeeper,OGC Nice,Leicester City,out,53,0,0,2,0,53,4770,0,0,0,1260,74.3,0,0,1814,951,79,1.49,163,70.5,73.7,0.13,2022/2023,Denmark,1
+Keane Lewis-Potter,21,Left Winger,Hull City,Brentford FC,in,46,12,3,3,0,46,4139,12.2,5.2,0.78,994,72.2,20,28,1858,1190,0,0,0,0,0,-0.28,2022/2023,England,19
+Kevin Mbabu,27,Right-Back,VfL Wolfsburg,Fulham FC,in,24,0,0,4,0,15.5,1391,0.3,1.3,0,599,67.8,31,25,1126,577,0,0,0,0,0,-0.97,2022/2023,Switzerland,5.5
+Kieran Trippier,31,Right-Back,"Atlético de Madrid
+",Newcastle United,in,18,0,0,1,0,13.3,1195,0.1,0.4,0,692,76.9,30,18,1000,483,0,0,0,0,0,-0.3,2021/2022,England,30
+Kjell Scherpen,21,Goalkeeper,Ajax,Brighton & Hove Albion,in,3,0,0,0,0,3,270,0,0,0,60,77.9,1,0,81,53,25,1.47,63,75.3,1,0.33,2021/2022,Netherlands,5
+Ko Itakura,25,Centre-Back,Bor. M'gladbach,Manchester City,out,25,0,2,1,2,23,2071,0.6,0.4,0.17,1124,90.8,29,41,1787,1175,0,0,0,0,0,0.3,2022/2023,Japan,5
+Konstantinos Mavropanos,24,Centre-Back,VfB Stuttgart,Arsenal FC,out,8,0,0,3,0,7.7,696,,,0,50,89.3,1,1,71,43,0,0,0,0,0,0.52,2022/2023,Greece,3.2
+Kristoffer Klaesson,20,Goalkeeper,VÃƒÆ’Ã‚Â¥lerenga,Leeds United,in,14,0,1,1,0,14,1216,0,0,0,,,,,,,20,1.43,30,62.5,,0.36,2021/2022,Norway,2
+Leif Davis,22,Left-Back,Ipswich,Leeds United,out,16,0,0,0,0,10,900,0,0,0,17,89.5,2,1,25,15,0,0,0,0,0,1.75,2022/2023,England,1.2
+Leon Bailey,23,Left Winger,Bay. Leverkusen,Aston Villa,in,40,15,10,7,0,31.7,2852,10.6,7.3,1.26,803,69,17,16,1502,885,0,0,0,0,0,0.76,2021/2022,Jamaica,32
+Leonardo Campana,22,Centre-Forward,Miami,Wolverhampton Wanderers,out,15,3,1,1,0,5.9,533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,2022/2023,Ecuador,2.7
+Lewis O'Brien,23,Central Midfield,Huddersfield Town,Nottingham Forest,in,47,3,3,10,0,44.6,4013,4.3,3.4,0.38,1295,76.8,96,53,2175,1297,0,0,0,0,0,0.43,2022/2023,England,9.4
+Lisandro MartÃƒÂ­nez,24,Centre-Back,Ajax,Manchester United,in,32,1,4,5,0,29.2,2626,2.9,3.1,0.31,2413,89.5,61,30,3029,1970,0,0,0,0,0,2.3,2022/2023,Argentina,57.37
+Lucas Torreira,26,Defensive Midfield,Galatasaray,Arsenal FC,out,39,2,1,7,0,22.8,2048,2.7,1,0.35,1014,87.2,36,30,1376,763,0,0,0,0,0,0.62,2022/2023,Uruguay,6
+Luis DÃƒÂ­az,25,Left Winger,FC Porto,Liverpool FC,in,24,16,4,3,0,22.4,2012,13.1,7.2,1.3,665,79.2,20,15,1142,777,0,0,0,0,0,1.16,2021/2022,Colombia,47
+Luis Sinisterra,23,Left Winger,Feyenoord,Leeds United,in,42,18,11,2,0,38,3416,13.7,10.4,1.26,1287,81.1,52,48,2143,1444,0,0,0,0,0,1.13,2022/2023,Colombia,25
+Lukas Nmecha,22,Centre-Forward,VfL Wolfsburg,Manchester City,out,14,15,1,1,0,10.7,971,0,0,0,5,100,0,0,5,5,0,0,0,0,0,-1.84,2021/2022,Germany,8
+Maduka Okoye,22,Goalkeeper,Sparta R.,Watford FC,in,30,0,0,4,0,29.3,2633,0,0,0,511,55.3,1,0,989,487,40,1.37,94,73.3,42.6,-0.41,2021/2022,Nigeria,5
+Malo Gusto,19,Right-Back,Olympique Lyon,Chelsea FC,in,21,0,1,1,0,17.7,1595,0.4,3.1,0.17,1171,81.5,42,22,1617,1195,0,0,0,0,0,0.17,2022/2023,France,30
+Manuel Akanji,27,Centre-Back,Bor. Dortmund,Manchester City,in,36,1,0,3,0,33.6,3028,1.9,0.2,0.12,2096,89.5,39,35,2573,1765,0,0,0,0,0,0.33,2022/2023,Switzerland,17.5
+Marc GuÃƒÂ©hi,21,Centre-Back,Chelsea FC,Crystal Palace,in,13,1,0,1,0,13,1070,,,0,,,,,,,0,0,0,0,0,2.5,2021/2022,England,23.34
+Marcos Senesi,25,Centre-Back,Feyenoord,AFC Bournemouth,in,44,3,2,6,0,39.7,3574,3.1,2.3,0.15,2455,84.8,82,42,3303,2091,0,0,0,0,0,1.16,2022/2023,Argentina,15
+Marcus Forss,23,Centre-Forward,Middlesbrough FC,Brentford FC,out,12,6,2,0,0,6.2,560,0.3,0.2,1.13,22,57.9,3,5,69,29,0,0,0,0,0,1.93,2022/2023,Finland,3.6
+Marcus Tavernier,23,Central Midfield,Middlesbrough FC,AFC Bournemouth,in,48,5,5,8,0,47.4,4266,7.4,8.4,0.61,1350,69.7,95,47,2488,1366,0,0,0,0,0,0.17,2022/2023,England,11.9
+Martin ÃƒËœdegaard,22,Attacking Midfield,Real Madrid,Arsenal FC,in,9,0,0,0,0,4.1,367,0.2,0.7,0.49,219,85.5,3,1,280,189,,,,,,0.49,2021/2022,Norway,35
+Matt Clarke,25,Centre-Back,Middlesbrough FC,Brighton & Hove Albion,out,1,0,0,1,0,1,90,,,,,,,,,,0,0,0,0,0,-1,2022/2023,England,2.6
+Matt Turner,28,Goalkeeper,New England,Arsenal FC,in,5,0,0,0,0,5,450,0,0,0,138,83.1,0,0,0,0,7,1.4,8,53.3,6.5,0.6,2022/2023,United States,6.36
+Mattie Pollock,19,Centre-Back,Grimsby Town,Watford FC,in,27,3,0,5,0,25.1,2259,,,0.24,,,,,,,0,0,0,0,0,-0.92,2021/2022,England,0.3
+MattÃƒÂ©o Guendouzi,23,Central Midfield,Marseille,Arsenal FC,out,34,0,2,8,0,26.8,2413,0.8,1.2,0.19,1234,87.6,39,24,1664,1041,0,0,0,0,0,-0.04,2022/2023,France,11
+Maximilian WÃƒÂ¶ber,24,Centre-Back,RB Salzburg,Leeds United,in,18,1,3,2,0,15,1349,0.1,0.7,0.53,32,44.4,9,3,92,32,0,0,0,0,0,1.07,2022/2023,Austria,12
+Michael Obafemi,21,Centre-Forward,Swansea,Southampton FC,out,1,0,0,0,0,0.3,26,,,0,,,,,,,0,0,0,0,0,6.92,2021/2022,Republic of Ireland,2
+Michael Olise,19,Right Midfield,Reading,Crystal Palace,in,46,7,12,3,0,37.9,3410,5.4,7.7,0.63,1977,74,40,30,2373,1365,0,0,0,0,0,0.18,2021/2022,France,9.3
+Michy Batshuayi,28,Centre-Forward,Fenerbahce,Chelsea FC,out,38,14,3,7,0,31.1,2797,1.7,0.2,0.24,85,74.1,3,1,133,70,0,0,0,0,0,-0.1,2022/2023,Belgium,3.5
+Mikkel Damsgaard,22,Left Winger,Sampdoria,Brentford FC,in,12,0,0,1,0,6.8,616,0.6,0.5,0,264,74.2,27,16,352,202,0,0,0,0,0,-0.15,2022/2023,Denmark,15
+Milot Rashica,25,Right Winger,Werder Bremen,Norwich City,in,26,3,2,0,0,17.8,1603,4.4,1.6,0.9,423,67.4,24,7,640,425,0,0,0,0,0,-0.39,2021/2022,Kosovo,11
+Moussa NiakhatÃƒÂ©,26,Centre-Back,1.FSV Mainz 05,Nottingham Forest,in,33,4,0,2,0,31.3,2816,3.9,0.5,0.1,1611,74.9,40,37,1865,865,0,0,0,0,0,0.19,2022/2023,France,10
+MÃƒÂ¡ximo Perrone,20,Defensive Midfield,VÃƒÆ’Ã‚Â©lez Sarsfield,Manchester City,in,25,3,2,12,0,20.3,1826,1,0.5,0.25,354,78.8,31,14,472,200,0,0,0,0,0,0.52,2022/2023,Argentina,11
+Naouirou Ahamada,20,Central Midfield,VfB Stuttgart,Crystal Palace,in,18,2,2,4,1,16.2,1461,0.8,1.2,0.37,529,84.9,17,16,674,408,0,0,0,0,0,-0.67,2022/2023,France,12
+Nathan Patterson,20,Right-Back,Rangers,Everton FC,in,8,0,1,1,0,3.9,351,0.1,0,0,63,85.7,6,3,77,52,0,0,0,0,0,0.51,2021/2022,Scotland,14
+Nayef Aguerd,26,Centre-Back,Stade Rennais,West Ham United,in,38,2,2,4,1,37.4,3365,3.1,0.3,0.19,2651,88.9,34,30,2987,1964,0,0,0,0,0,1.04,2022/2023,Morocco,35
+Nick Pope,30,Goalkeeper,Burnley FC,Newcastle United,in,39,0,0,1,0,39,3510,0,0,0,1088,51.1,0,0,1194,565,51,1.31,125,73.7,44.3,-0.36,2022/2023,England,11.5
+Noni Madueke,20,Right Winger,PSV Eindhoven,Chelsea FC,in,26,4,4,0,0,13.5,1215,5.1,2.1,1.87,156,76.3,13,4,231,171,0,0,0,0,0,0.47,2022/2023,England,35
+Odsonne Edouard,23,Centre-Forward,Celtic,Crystal Palace,in,35,20,4,1,0,28.9,2601,1.2,0.1,1.97,72,72.2,0,1,103,59,0,0,0,0,0,0.87,2021/2022,France,16.3
+Olivier Giroud,34,Centre-Forward,AC Milan,Chelsea FC,out,31,11,0,1,0,13.4,1209,6.8,1.2,1.41,295,71.9,6,7,412,173,0,0,0,0,0,0.97,2021/2022,France,1
+Omar Richards,24,Left-Back,Bayern Munich,Nottingham Forest,in,17,0,1,2,0,6.5,584,0.3,0.3,0,408,87,27,7,478,276,0,0,0,0,0,2.93,2022/2023,England,8.5
+Orel Mangala,24,Central Midfield,VfB Stuttgart,Nottingham Forest,in,29,1,3,4,0,21.6,1943,2.1,2.4,0.37,793,82.6,17,11,1002,629,0,0,0,0,0,-0.46,2022/2023,Belgium,13
+Owen Otasowie,20,Defensive Midfield,Club Brugge,Wolverhampton Wanderers,out,10,0,1,1,0,5.7,514,0.5,0.1,0,59,72.9,5,1,97,54,0,0,0,0,0,0.97,2021/2022,United States,4
+Pape Matar Sarr,18,Central Midfield,FC Metz,Tottenham Hotspur,in,25,4,0,5,0,18.9,1703,1.1,0.5,0.48,937,84.7,45,24,1144,780,0,0,0,0,0,-0.16,2021/2022,Senegal,16.9
+Patson Daka,22,Centre-Forward,RB Salzburg,Leicester City,in,34,27,6,4,0,26,2336,2.3,1.2,2,105,64.8,7,6,156,96,0,0,0,0,0,1.54,2021/2022,Zambia,30
+Pervis EstupiÃƒÂ±ÃƒÂ¡n,24,Left-Back,Villarreal,Brighton & Hove Albion,in,41,0,2,5,0,26.1,2347,0.8,2.9,0.19,1421,76.8,36,13,1715,858,0,0,0,0,0,0.77,2022/2023,Ecuador,17.8
+Pierre Lees-Melou,28,Central Midfield,OGC Nice,Norwich City,in,33,5,2,4,1,26.5,2385,4.7,0.8,0.49,1291,84.7,74,51,1575,894,0,0,0,0,0,-0.3,2021/2022,France,3.9
+Pierre-Emerick Aubameyang,33,Centre-Forward,Barcelona,Chelsea FC,in,23,13,1,0,0,16.7,1501,11.3,2.3,1.5,780,73.7,4,12,508,287,0,0,0,0,0,1.08,2022/2023,Gabon,12
+Rachid Ghezzal,29,Right Winger,Besiktas,Leicester City,out,31,8,17,5,0,26.7,2401,,,0.79,,,,,,,0,0,0,0,0,1.2,2021/2022,Algeria,3
+RaphaÃƒÂ«l Varane,28,Centre-Back,Real Madrid,Manchester United,in,41,2,0,4,0,39.7,3570,3,0.3,0.13,2442,89.6,33,31,2764,1753,0,0,0,0,0,0.76,2021/2022,France,40
+Rasmus Kristensen,24,Right-Back,RB Salzburg,Leeds United,in,37,7,5,2,0,36.1,3248,0.4,0,0.53,406,67.7,37,9,522,193,0,0,0,0,0,1.33,2022/2023,Denmark,13
+Remo Freuler,30,Central Midfield,Atalanta BC,Nottingham Forest,in,43,2,6,11,0,39.1,3515,1.5,2.6,0.23,2398,85.4,88,64,2807,1669,0,0,0,0,0,0.08,2022/2023,Switzerland,9
+Robin Olsen,32,Goalkeeper,AS Roma,Aston Villa,in,11,,,,,11,990,,,,380,72.1,,,394,235,17,1.55,27,63.6,12.7,-0.18,2022/2023,Sweden,3.5
+Rodrigo Bentancur,24,Central Midfield,Juventus,Tottenham Hotspur,in,45,0,4,11,1,35.3,3179,0.8,2.7,0.2,2220,88.4,76,43,2554,1422,0,0,0,0,0,0.91,2021/2022,Uruguay,19
+Romain Perraud,23,Left-Back,Stade Brestois,Southampton FC,in,37,3,7,4,0,35,3153,2.7,3.6,0.34,2040,77.8,60,36,2393,1341,0,0,0,0,0,-0.26,2021/2022,France,12
+Romelu Lukaku,28,Centre-Forward,Inter,Chelsea FC,in,44,30,11,7,0,39.6,3561,26.2,7.6,1.39,874,70.3,11,14,1300,704,0,0,0,0,0,1.14,2021/2022,Belgium,113
+Sadio ManÃƒÂ©,30,Left Winger,Bayern Munich,Liverpool FC,out,51,23,3,8,0,43.6,3927,21.7,7.2,1.12,1393,74.7,42,38,1909,1301,0,0,0,0,0,1.44,2022/2023,Senegal,32
+Samuel Kalu,24,Right Winger,G. Bordeaux,Watford FC,in,20,4,1,3,0,10.7,964,1.8,0.6,0.75,301,71.8,21,14,497,330,0,0,0,0,0,0.37,2021/2022,Nigeria,3
+Simon Adingra,20,Left Winger,Nordsjaelland,Brighton & Hove Albion,in,31,9,3,5,0,20.1,1809,,,45.3,,,,,,,0,0,0,0,0,-0.25,2022/2023,CÃƒÆ’Ã‚Â´te d'Ivoire,8
+Steven Bergwijn,24,Left Winger,Ajax,Tottenham Hotspur,out,31,4,1,2,0,9.7,871,2.6,0.9,1.14,215,80.5,4,3,309,211,0,0,0,0,0,0.21,2022/2023,Netherlands,31.25
+Sven Botman,22,Centre-Back,LOSC Lille,Newcastle United,in,32,3,1,5,0,31.6,2847,1.9,0.3,0.19,1789,88,30,35,2069,1217,0,0,0,0,0,0,2022/2023,Netherlands,37
+SÃƒÂ©kou Mara,19,Centre-Forward,G. Bordeaux,Southampton FC,in,27,6,0,2,0,10.7,966,5.1,0.7,1.49,193,66.8,8,7,346,207,0,0,0,0,0,0.19,2022/2023,France,13
+Takehiro Tomiyasu,22,Right-Back,Bologna,Arsenal FC,in,33,2,0,4,0,32.5,2925,2.1,0.4,0.5,1677,81.5,47,37,2015,1087,0,0,0,0,0,-0.34,2021/2022,Japan,18.6
+Takumi Minamino,27,Left Winger,Monaco,Liverpool FC,out,24,10,1,2,0,11.3,1021,1.7,0.6,0.97,151,86.1,8,4,194,129,0,0,0,0,0,1.85,2022/2023,Japan,15
+Tammy Abraham,23,Centre-Forward,AS Roma,Chelsea FC,out,32,12,4,0,0,17.1,1539,7.3,0.8,1.23,259,72.2,7,8,434,192,0,0,0,0,0,1.4,2021/2022,England,40
+Thilo Kehrer,25,Centre-Back,Paris SG,West Ham United,in,34,2,0,3,0,21.6,1946,1,0,0.18,1239,94.4,21,20,1389,931,0,0,0,0,0,1.29,2022/2023,Germany,12
+Timo Werner,26,Centre-Forward,RB Leipzig,Chelsea FC,out,36,11,6,1,0,24.1,2172,9,1.6,1.12,480,74,9,9,665,397,0,0,0,0,0,0.99,2022/2023,Germany,20
+Tino Livramento,18,Right-Back,Chelsea FC,Southampton FC,in,20,2,6,4,1,19.1,1717,,,,,,,,,,0,0,0,0,0,0.58,2021/2022,England,5.9
+Toby Alderweireld,32,Centre-Back,Al-Duhail SC,Tottenham Hotspur,out,42,2,2,8,0,41.9,3767,0.7,1.4,0.1,2354,81.9,47,55,2750,1738,0,0,0,0,0,0.14,2021/2022,Belgium,13
+Tyler Adams,23,Defensive Midfield,RB Leipzig,Leeds United,in,37,0,1,9,0,23,2067,0.2,0.9,0.04,1237,86.7,36,37,1443,823,0,0,0,0,0,0.7,2022/2023,United States,17
+Tyrell Malacia,22,Left-Back,Feyenoord,Manchester United,in,43,1,5,9,0,42.4,3819,3.3,5,0.24,2795,82.4,106,52,3328,1882,0,0,0,0,0,1.15,2022/2023,Netherlands,15
+Victor Kristiansen,20,Left-Back,FC Copenhagen,Leicester City,in,21,1,1,6,0,17.8,1604,0.2,0.3,0.11,251,74.9,15,11,308,139,0,0,0,0,0,-0.5,2022/2023,Denmark,14
+Viktor GyÃƒÂ¶keres,23,Centre-Forward,Coventry,Brighton & Hove Albion,out,19,3,0,0,0,8.5,762,2,0.6,0.71,199,70.9,10,9,322,187,0,0,0,0,0,0.24,2021/2022,Sweden,1.2
+Vitaliy Mykolenko,22,Left-Back,Dynamo Kyiv,Everton FC,in,30,2,3,3,0,29.3,2637,0,0.2,0,496,80.2,11,7,586,353,0,0,0,0,0,0.89,2021/2022,Ukraine,23.5
+Wilfried Gnonto,18,Second Striker,FC ZÃƒÆ’Ã‚Â¼rich,Leeds United,in,33,9,1,8,0,14.5,1306,,,1.52,,,,,,,0,0,0,0,0,0.9,2022/2023,Italy,4.5
+Wout Faes,24,Centre-Back,Stade Reims,Leicester City,in,39,4,0,2,0,39.3,3540,2.1,0.2,0.23,1472,85.2,40,47,1843,1100,0,0,0,0,0,0,2022/2023,Belgium,17
+Wout Weghorst,29,Centre-Forward,VfL Wolfsburg,Burnley FC,in,38,23,8,3,0,36.3,3268,17,5.2,1.38,797,65.6,13,7,1094,561,0,0,0,0,0,0.77,2021/2022,Netherlands,17.5
+Xherdan Shaqiri,29,Right Winger,Olympique Lyon,Liverpool FC,out,22,1,4,2,0,9.2,829,0.6,2.7,0.11,524,82.1,8,9,604,378,0,0,0,0,0,0.65,2021/2022,Switzerland,6
+Yasin Ayari,19,Mid-Fielder,AIK,Brighton & Hove Albion,in,24,4,1,6,1,15.9,"1435",,,0.88,,,,,,,0,0,0,0,0,0.19,2022/2023,Sweden,4
+Yerson Mosquera,20,Centre-Back,Atl. Nacional,Wolverhampton Wanderers,in,15,0,0,7,1,13.7,1229,0.1,0.1,0.07,127,78.7,10,2,157,76,0,0,0,0,0,0.95,2021/2022,Colombia,5.2
+Yoane Wissa,24,Left Winger,FC Lorient,Brentford FC,in,40,11,4,2,0,31,"2791",12.1,3.5,0.68,747,73.5,35,25,1086,669,0,0,0,0,0,-0.23,2021/2022,Congo DR,10
+Anthony Gordon,21,Left Winger, Everton FC,Newcastle United,in,40,4,3,6,0,29.9,2687,3.5,3.8,0.8,743,64.9,54,49,1116,602,0,0,0,0,0,-0.5,2022/2023,England,45.6
+Ben Gibson,28,Centre-Back,Burnley FC,Norwich City,in,29,0,1,5,0,28.2,2536,1.1,1,0.04,2136,85.8,9,19,2340,1572,0,0,0,0,0,0.78,2021/2022,England,9.3
+Bernd Leno,30,Goalkeeper,Arsenal FC,Fulham FC,in,8,0,0,0,0,8,720,0,0,0,115,66.1,1,0,125,61,11,1.37,22,66.7,9.4,0.55,2022/2023,Germany,3.6
+Billy Gilmour,21,Central Midfield,Chelsea FC,Brighton & Hove Albion,in,28,0,2,2,0,23,2066,0.9,1.4,0.17,1243,79.7,41,21,1423,841,0,0,0,0,0,-1.92,2022/2023,Scotland,10.4
+Carney Chukwuemeka,18,Central Midfield,Aston Villa,Chelsea FC,in,14,0,1,0,0,4.7,422,0.6,1,0.43,121,81,7,3,167,111,0,0,0,0,0,0.64,2022/2023,England,18
+Chris Wood,30,Centre-Forward,Burnley FC,Newcastle United,in,37,12,4,0,0,32.7,2946,13,1.9,1.16,663,64.1,12,14,932,454,0,0,0,0,0,-0.52,2021/2022,New Zealand,30
+Dan Burn,29,Centre-Back,Brighton & Hove Albion,Newcastle United,in,32,1,0,6,0,27.9,2511,1.5,0.8,0.22,1280,74.5,50,30,1549,749,0,0,0,0,0,-0.18,2021/2022,England,15
+Daniel James,23,Right Winger,Manchester United,Leeds United,in,26,5,2,3,0,16.9,1518,3.9,1.9,0.71,474,76.8,23,17,631,371,0,0,0,0,0,1.54,2021/2022,Wales,29.1
+Emiliano BuendÃƒÂ­a,24,Right Winger,Norwich City,Aston Villa,in,41,15,15,8,2,37.4,3362,11.7,13.2,0.96,2094,74.4,93,65,2628,1493,0,0,0,0,0,1.07,2021/2022,Argentina,38.4
+Emmanuel Dennis,24,Centre-Forward,Watford FC,Nottingham Forest,in,35,10,6,9,1,29.3,2637,7.3,4.1,0.89,628,65.4,51,36,1078,644,0,0,0,0,0,-1.06,2022/2023,Nigeria,14.8
+Emmanuel Dennis,23,Centre-Forward,Club Brugge,Watford FC,in,13,1,3,4,0,8.6,774,1.2,1.3,1.16,117,70.1,3,4,171,121,0,0,0,0,0,0.35,2021/2022,Nigeria,4
+Issa Diop,25,Centre-Back,West Ham United,Fulham FC,in,26,1,2,2,0,22.6,2030,0.9,0.5,0.13,791,87.4,21,19,932,558,0,0,0,0,0,0.49,2022/2023,France,17.8
+Jack Grealish,25,Left Winger,Aston Villa,Manchester City,in,27,7,10,6,0,25.3,2275,4.6,7.4,0.71,1105,78.9,31,20,1376,926,0,0,0,0,0,0.55,2021/2022,England,117.5
+Jack Harrison,24,Left Winger,Manchester City,Leeds United,in,37,8,8,2,0,32.1,2892,5.8,6.5,0.59,1182,65.8,63,30,1544,933,0,0,0,0,0,0.19,2021/2022,England,12.8
+Joe Willock,21,Central Midfield,Arsenal FC,Newcastle United,in,14,8,0,0,0,10.9,978,3.9,0.5,1.1,242,74,26,21,410,205,0,0,0,0,0,0.37,2021/2022,England,29.4
+Kalvin Phillips,26,Defensive Midfield,Leeds United,Manchester City,in,23,1,1,4,0,21.1,1896,0.7,0.7,0.19,971,80.9,54,37,1188,603,0,0,0,0,0,-0.28,2022/2023,England,49
+Kurt Zouma,26,Centre-Back,Chelsea FC,West Ham United,in,36,5,0,3,0,32.8,2951,2.1,0.1,0.4,2159,90.1,19,18,2419,1567,0,0,0,0,0,1.1,2021/2022,France,35
+Leander Dendoncker,27,Defensive Midfield,Wolverhampton Wanderers,Aston Villa,in,34,3,4,4,0,25.8,2323,2.2,1.1,0.46,822,86.3,42,37,1024,461,0,0,0,0,0,0,2022/2023,Belgium,15
+Leandro Trossard,28,Left Winger,Brighton & Hove Albion,Arsenal FC,in,35,8,3,8,3,31.9,"2870",6.7,4.8,0.82,1188,75.6,34,33,1535,987,0,0,0,0,0,0.06,2022/2023,Belgium,24
+Lucas Digne,28,Left-Back,Everton FC,Aston Villa,in,36,0,7,3,1,35.4,"3189",0.5,5.2,0,1736,70.9,63,42,2026,905,0,0,0,0,0,0.11,2021/2022,France,30
+Matt Targett,26,Left-Back,Aston Villa,Newcastle United,in,38,0,2,7,0,38,"3404",0.3,2.5,0.05,2189,75.2,56,40,2534,1151,0,0,0,0,0,0.29,2022/2023,England,17.5
+Craig Dawson,31,Centre-Back,Watford FC,West Ham United,in,24,4,0,5,1,23.7,2135,1.9,0.1,0.25,767,79.7,11,26,961,522,0,0,0,0,0,0.59,2021/2022,England,2.3
+Craig Dawson,32,Centre-Back,West Ham United,Wolverhampton Wanderers,in,50,4,2,7,1,47.1,4239,4.8,1.2,0.23,1762,82.4,33,75,2161,1281,0,0,0,0,0,0.36,2022/2023,England,3.75
+Danny Ings,29,Centre-Forward,Southampton FC,Aston Villa,in,33,13,4,1,0,28,2519,8.5,2.1,1,527,63.9,22,39,817,459,0,0,0,0,0,-0.29,2021/2022,England,29.42
+Danny Ings,30,Centre-Forward,Aston Villa,West Ham United,in,31,7,6,4,0,22.1,1988,7.1,1.6,0.77,378,66.4,23,31,617,321,0,0,0,0,0,0.09,2022/2023,England,12
